@@ -1,0 +1,241 @@
+Au départ, on prend le dommage tel qu’il est écrit sur la déclaration. S’il est concis, on le garde tel quel, sinon on le résume.
+
+On a donc au départ : le dommage déclaré.
+
+
+
+La démarche que je fais ensuite est de situer le sinistre dans le temps.
+
+Je vérifie que je suis dans la période de la garantie (entre la date de réception et les 10 ans de la décennale après la réception).
+
+Mais je le fais surtout pour savoir en quelle année nous sommes sur la frise chronologique des 10 ans.
+
+Car je n’appréhende pas forcément de la même façon un sinistre qui arrive très rapidement et un sinistre qui arrive au bout de plusieurs années.
+
+Par exemple, pour un décollement de relevé d’étanchéité, s’il arrive lors de la première ou de la deuxième année, c’est un défaut constructif, mal collé à l’origine, et s’il arrive en huitième ou neuvième année, c’est plutôt un défaut d’entretien.
+
+Il faut donc définir la position du sinistre (première, deuxième, troisième année…) et, dans certains cas, en tenir compte pour l’analyse.
+
+
+
+Une autre démarche inconsciente qui est faite est de définir dans quel type de construction je vais me situer.
+
+Je le sais en général en regardant la police d’assurance dommages-ouvrage qui doit préciser le type d’ouvrage et une description rapide de ce qui est assuré ; par exemple, sur mon dossier de faïence qui se décolle ce matin, le contrat indique « Construction de 27 logements mixtes et d’un commerce avec 2 niveaux de sous-sol ». Je sais que je suis donc dans un bâtiment d’habitation.
+
+Et c’est important pour se mettre en condition d’analyse d’expertise. La plupart du temps, ce sont des bâtiments d’habitation, mais il est important de savoir si je suis dans un immeuble collectif ou dans une maison individuelle. Et l’opération peut aussi être un immeuble de bureaux, un lycée, un hôtel, etc.
+
+Cette phase est importante, car en fait les techniques de construction, les matériaux, l’analyse du degré de gravité, etc. peuvent être différents suivant la typologie de construction.
+
+
+
+À partir de là, je commence les constats et j’intègre tout ce que je vois, en ayant en tête, pour me guider, le dommage déclaré.
+
+Si j’essaie de décomposer, je pense que je me pose à peu près les questions suivantes :
+
+
+
+Où est-ce que je me situe en regardant la photo ?
+
+Par exemple, si je sais que je suis dans un immeuble collectif de logements : est-ce que je suis dans une pièce à vivre (salon, chambre, etc.), est-ce que je suis dans une pièce d’eau (salle de bains, cuisine, etc.), est-ce que je suis dans une partie habitable (intérieur du logement) ou est-ce que je suis à l’extérieur du logement (balcon, loggia, terrasse extérieure, façade depuis l’extérieur…) ? Est-ce que je suis dans une partie avec des locaux un peu moins nobles (cave, parking, local poubelles, etc.) ?
+
+Ces réflexions me permettent, dans un premier temps, de comprendre les techniques de construction habituellement utilisées pour un type de lieu ou de local, et les pathologies associées.
+
+Sur le dossier de Romain, je reconnais une surface et des murs en béton brut. Je me dis que je dois être dans un espace extérieur ou un parking (probablement une rampe dans un parking) et je peux distinguer l’étanchéité / bande qui s’est décollée.
+
+Dans mon cas de faïence, je comprends bien directement qu’on est dans une salle de bain.
+
+En général, ces constats visuels sont censés recouper les éléments de la déclaration écrite qui situe en général le lieu dans lequel on se trouve. Mais ils peuvent apporter des informations supplémentaires.
+
+
+
+Ensuite, je poursuis les constats des photos que j’ai. Ces constats vont alors être beaucoup plus tournés côté pathologie. Quels signes je vois et quelles sont en général les causes connues ?
+
+Exemple fissure et décollement d’étanchéité de Romain :
+
+Je vois une bande d’étanchéité décollée. La zone qui est en dessous est visible, il y a une fissure. La fissure est d’une ouverture assez importante. Elle correspond à un mouvement de la structure. J’en déduis qu’il y a eu un mouvement assez important de la structure et que l’étanchéité, qui était mal faite ou mal collée, n’a pas résisté et s’est décollée.
+
+C’est là qu’il y a une finesse dans l’analyse du dommage ; car je ne vois pas forcément l’infiltration d’eau qui peut être le dommage tel qu’il a été déclaré, mais je sais que, suivant la zone dans laquelle je me trouve, l’ouvrage d’étanchéité qui a été réalisé pour traiter un joint entraîne une infiltration ou une dégradation certaine si de l’eau s’infiltre sur le défaut tel qu’il est visible.
+
+
+
+Dans mon dossier de décollement de faïence :
+
+Je comprends sans difficulté que je suis dans une salle de bains.
+
+Je constate immédiatement que plusieurs carreaux se sentent décollés sur le mur. J’en déduis tout de suite un degré de gravité important : ils auraient pu tomber sur des personnes et, dans une salle de bains de logement, ce n’est pas acceptable.
+
+Sur les endroits où les carreaux sont décollés, je vois les sillons de colle qui a été appliquée à la spatule et qui sont quasiment intacts. Je sais donc que, sur cette zone, les carreaux n’ont jamais adhéré. Il s’agit probablement d’un défaut d’application de la colle. Sur l’ampleur du dommage, je sais que le défaut est généralisé et qu’il y aura au minimum tout le mur à refaire. Pour confirmer l’ampleur, si je suis à distance, j’aurais envie de demander une investigation simple à l’occupant : taper sur les carreaux et dire sur quelles surfaces / murs ça sonne creux. La faïence sera reprise sur toutes les zones qui sonnent creux.
+
+
+
+Une fois que j’ai fait cette analyse technique, j’ai compris ce qu’il se passait et il faut le convertir en juridique.
+
+Au cours de cette étape, je peux éventuellement renommer le dommage analysé qui pourrait être un peu différent du dommage déclaré.
+
+
+
+
+
+Premièrement, quel est l’élément qui est affecté :
+
+
+
+Soit un élément constitutif du clos / couvert
+
+(la couverture, l’étanchéité, les façades, les menuiseries extérieures, les verrières, les murs rideaux, les joints et dispositifs d’étanchéité)
+
+
+
+Soit un élément constitutif de l’ossature : il s’agit ici de la structure de l’immeuble (les fondations, les murs porteurs, les poteaux, les poutres, les planchers, les dalles, la charpente, les voiles) ; c’est le cas lorsque les désordres (fissures, déformations, affaissements) sont suffisamment graves pour affecter la solidité de l’ouvrage
+
+
+
+Soit un élément de viabilité
+
+(les voiries et accès, les réseaux extérieurs, les canalisations et collecteurs enterrés, l’alimentation en eau, l’assainissement EU/EP, l’électricité, le gaz, les télécommunications, les ouvrages de gestion des eaux)
+
+
+
+Soit un élément d’équipement qui fonctionne
+
+(les chaudières, les pompes, les moteurs, les installations de chauffage, de climatisation et de ventilation, les ascenseurs et monte-charges, les installations électriques, la domotique, les automatismes, les systèmes de sécurité et de désenfumage)
+
+
+
+Soit un élément d’équipement inerte
+
+(les cloisons, les faux plafonds, les revêtements de sols et muraux, les garde-corps, les escaliers non porteurs, les menuiseries intérieures, la plomberie apparente, les équipements sanitaires)
+
+
+
+Et, dans un deuxième temps, est-ce que j’ai une atteinte à la solidité ou une impropriété à destination ?
+
+Il y a quelques cas où la solidité est affectée, mais dans la plupart des cas, c’est la notion d’impropriété à destination qui est analysée.
+
+
+
+En résumé, l’impropriété à destination, c’est un dommage qui :
+
+
+
+• Ne garantit plus le clos et le couvert
+
+(infiltrations d’eau, défaut d’étanchéité généralisé)
+
+
+
+• Ne permet plus des conditions normales d’usage
+
+(humidité, inconfort thermique majeur, impossibilité d’occuper les lieux)
+
+
+
+• Rend les locaux totalement ou partiellement inutilisables
+
+(pièces condamnées, surfaces fermées)
+
+
+
+• Affecte le fonctionnement des équipements indispensables
+
+(chauffage, eau, électricité, ventilation, ascenseurs)
+
+
+
+• Présente un risque pour la sécurité des personnes
+
+(chutes d’éléments, risques électriques, instabilité)
+
+
+
+• Entraîne une interdiction d’usage ou une évacuation
+
+(fermeture administrative, arrêté de péril)
+
+
+
+Pour nos cas pratiques :
+
+Dans l’exemple de Romain, on comprend que l’étanchéité n’a pas tenu et est affectée. Le dommage affecte donc un élément constitutif du clos / couvert (l’étanchéité), avec une infiltration et des dégâts certains qui vont dégrader les zones en dessous de cette étanchéité.
+
+Le dommage est de nature décennale.
+
+
+
+Dans mon cas avec la faïence :
+
+Il y a un risque pour les personnes avec la chute des carreaux de faïence.
+
+Le dommage affecte un élément d’équipement inerte (la faïence) et rend l’ouvrage impropre à destination (risque pour les occupants).
+
+Le dommage est de nature décennale.
+
+
+
+Un dommage de nature décennale va conduire, sauf exception, à l’application de la garantie obligatoire du contrat dommages-ouvrage.
+
+
+
+Il faut donc analyser l’éventuelle exception et on se pose alors la question de la cause étrangère. Est-ce qu’il existe :
+
+– un défaut d’entretien qui peut expliquer le dommage
+
+– un défaut d’usage qui peut expliquer le dommage
+
+– une intervention d’un tiers qui peut expliquer le dommage
+
+Et c’est ici aussi que l’on Corel avec la position du Sinistre dans le temps. Proche de la réception ou dans les dernières années.
+
+
+
+Pour chacun des éléments affectés, il faut donc se poser la question de ce qui était nécessaire.
+
+
+
+Pour l’exemple de l’étanchéité telle qu’elle est appliquée sur la photo, il n’existe pas d’opération d’entretien spécifique. Une cause d’exclusion pourrait être si on identifie clairement, par exemple, qu’elle a été décollée par un outil ou par le passage de quelque chose d’anormal.
+
+Mais ici, on ne voit rien de tout ça, donc on n’identifie pas de cause étrangère.
+
+
+
+Pour la faïence, on se pose la question : est-ce que je vois des joints très dégradés qui ont mal été entretenus ? Est-ce que je vois des dégradations ou des actions anormales qui auraient causé le décollement ? La réponse est non, et je n’identifie pas non plus de cause étrangère ici.
+
+
+
+Dans les deux cas, la garantie de l’assurance va donc s’appliquer.
+
+
+
+Se pose alors enfin la question de la réparation. Comment je vais réparer et combien ça va coûter ?
+
+
+
+Les photos, comme très souvent, sont très focalisées sur le dommage (zoom), et je n’ai aucune information sur l’environnement.
+
+Pour le joint, on peut prendre l’hypothèse qu’il n’est abîmé que sur une longueur réduite et faire un chiffrage au temps passé.
+
+
+
+Pour la faïence, en revanche, il faudrait avoir une approche du nombre de mètres carrés pour en déduire un prix un peu cohérent.
+
+
+
+Il faudra creuser le sujet du chiffrage dans un second temps.
+
+
+
+En synthèse si je résume
+
+
+
+dommage déclaré
+Quelle année dans le temps de la décennale ?
+Quel type d’ouvrage de construction
+Dans quelle zone/lieu/ pièce je me situe; intérieur ou extérieur; zone, habitable noble ou zone non noble ?
+Quels sont les éléments affectés ? Quelles sont les signes/pathologie que je vois ?
+Analyse: chaque pathologie a des causes. En fonction des constats que je fais, je déduis ce qui peut expliquer la survenance du dommage
+J’ai compris ce qui s’est passé, et je peux éventuellement renommer le dommage analysé (qui pourrait être un peu différent du dommage déclaré initial)
+Je caractérise le dommage: nature décennale ou non décennale, en fonction de l’élément qui est affecté (constitutif, équipement, …)
+J’analyse et je recherche les possibles causes étrangères (des fois d’entretien, défaut d’usage, intervention d’un tiers …)
+J’en déduis l’application des garanties
+Dans le cas où il y a une garantie, je chiffre les dommages et les réparations nécessaires
