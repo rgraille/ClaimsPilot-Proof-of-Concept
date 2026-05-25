@@ -1,0 +1,712 @@
+﻿catégorie;CodeReferentielReparation;Désignation;Unité;Démolitions / Déblais;Étape de production;Étape du processus de construction ;Étape d’utilisation ;Étape de fin de vie ;Total cycle de vie en kg CO² eq;Durée de vie;Incertitude;Date de modification
+SOL;SOL_1;Arrachage tous types de revêtements souple ou dur;M2;7,82;0;0;0;0;7,82;25;1;02/05/2024
+SOL;SOL_2;Arrachage parquet traditionnel cloué ou collé;M2;11,7;0;0;0;0;11,7;30;1;02/05/2024
+SOL;SOL_3;Moquette et sols PVC : Remplacement revêtement de sol, arrachage, préparation du support, surfaçage, fournitures de pose, hors revêtement;M2;7,6;0;11,5;30,6;7,6;57,3;10;1;02/05/2024
+SOL;SOL_4;Moquette : Remplacement revêtement de sol, arrachage, préparation du support, surfaçage, fournitures de pose, hors revêtement;M2;2,49;0;1,87;2,13;2,49;8,98;10;1;02/05/2024
+SOL;SOL_5;Sol PVC : Remplacement revêtement de sol, arrachage, préparation du support, surfaçage, fournitures de pose, hors revêtement;M2;7,6;0;11,5;30,6;7,6;57,3;10;1;02/05/2024
+SOL;SOL_6;Décontamination / nettoyage des Sol Autre revêtement (céramique, plastique, bois, béton, ...);M2;0;0,1;0,2;0;0;0,3;10;2;02/05/2024
+SOL;SOL_7;Décontamination / nettoyage des Sol Moquette (extraction et nettoyage) ;M2;0;0,2;0,3;0;0;0,5;10;2;02/05/2024
+SOL;SOL_8;Fourniture moquette à coller en rouleau classique;M2;0;23,6;0;0;0;23,6;10;1;02/05/2024
+SOL;SOL_9;Fourniture sols vinyle (linoleum) à coller en rouleau classique;M2;0;4,19;0;0;0;4,19;25;1;02/05/2024
+SOL;SOL_10;Ragréage sol si nécessaire y compris fournitures;M2;0;3,58;0;0;0;3,58;50;1;02/05/2024
+SOL;SOL_11;Moquette et sols PVC : Remplacement revêtement de sol, préparation du support, surfaçage, fournitures de pose hors revêtement;M2;12,45;3,58;9,35;10,65;12,45;48,48;50;2;02/05/2024
+SOL;SOL_12;Moquette : Remplacement revêtement de sol, arrachage et fournitures de pose, hors revêtement;M2;2,49;0;1,87;2,13;2,49;8,98;10;1;02/05/2024
+SOL;SOL_13;Moquette : Remplacement revêtement de sol, arrachage, préparation du support, surfaçage, fournitures de pose hors revêtement;M2;12,45;3,58;9,35;10,65;12,45;48,48;50;3;02/05/2024
+SOL;SOL_14;PVC : Remplacement revêtement de sol, arrachage et fournitures de pose, hors revêtement;M2;7,6;0;11,5;30,6;7,6;57,3;10;1;02/05/2024
+SOL;SOL_15;PVC : Remplacement revêtement de sol, arrachage, préparation du support, surfaçage, fournitures de pose hors revêtement;M2;38;3,58;57,5;153;38;290,08;50;3;02/05/2024
+SOL;SOL_16;Fourniture Dalle Moquette à coller ou adhésive classique;M2;0;3,83;0;0;0;3,83;10;1;02/05/2024
+SOL;SOL_17;Fourniture Dalle PVC à coller ou adhésive classique;M2;0;11,5;0;0;0;11,5;10;1;02/05/2024
+SOL;SOL_18;Fourniture sisal, coco ou jonc de mer à coller en rouleau classique;M2;0;1,87;0;0;0;1,87;10;1;02/05/2024
+SOL;SOL_19;Ragréage sol si nécessaire y compris fournitures;M2;0;3,58;0;0;0;3,58;50;1;02/05/2024
+SOL;SOL_20;Revêtement naturel : Dépose et pose revêtement de sol, préparation du support, surfaçage, fournitures de pose, hors revêtement;M2;15,64;52,38;8,38;11,68;15,64;103,72;50;3;02/05/2024
+SOL;SOL_21;Dépose soignée de plinthe en stratifié;ML;0,52;0;0;0;0;0,52;30;1;02/05/2024
+SOL;SOL_22;Dépose soignée de plinthe ou quart de rond;M2;0,52;0;0;0;0;0,52;30;3;02/05/2024
+SOL;SOL_23;Démolition de carrelages au sol, scellés au mortier ;M2;0,64;0;0;0;0;0,64;50;1;02/05/2024
+SOL;SOL_24;Démolition, évacuation et pose de plinthe collées ou scellées y compris préparation du support;ML;0,85;4,75;1,14;0;0,85;7,59;30;1;02/05/2024
+SOL;SOL_25;Démolition de chape ciment;M2;1,45;0;0;0;0;1,45;50;1;02/05/2024
+SOL;SOL_26;Chape de nivellement mortier ép. 5cm;M2;1,45;45,7;2,8;0;1,45;51,4;50;1;02/05/2024
+SOL;SOL_27;Reprise ponctuelle au mortier colle de chape de nivellement;M2;0,01;8,72;0;0;0,01;8,75;50;1;02/05/2024
+SOL;SOL_28;Pose de carreaux de terre cuite scellés 10*10 hors fourniture;M2;0;0;34,1;2,23;1,73;38,06;50;1;02/05/2024
+SOL;SOL_29;Pose de carreaux de terre cuite scellés 20*20 hors fourniture;M2;0;0;51,1;3,35;2,59;57,04;50;2;02/05/2024
+SOL;SOL_30;Démolition, évacuation et pose de carrelage au sol collées ou scellées y compris préparation du support;M2;0,37;20,23;7,14;0;0,37;28,1;50;1;02/05/2024
+SOL;SOL_31;Pose de carreaux de terre cuite collés (simple encollage) 10*10 hors fourniture;M2;0;0;34,1;2,23;1,73;38,06;50;1;02/05/2024
+SOL;SOL_32;Pose de carreaux de terre cuite collés (simple encollage) 20*20 hors fourniture;M2;0;0;51,1;3,35;2,59;57,04;50;1;02/05/2024
+SOL;SOL_33;Pose de carreaux de terre cuite collés (double encollage) 30*30 hors fourniture;M2;0;0;51,1;3,35;2,59;57,04;50;1;02/05/2024
+SOL;SOL_34;Remplacement de faiience ep=6mm sur murs et plafond;M2;0,19;11,3;4,03;0;0,19;15,7;50;1;02/05/2024
+SOL;SOL_35;Pose de carreaux de grès scellés 10*10 hors fourniture;M2;0;0;8,76;7,75;0,92;17,43;50;1;02/05/2024
+SOL;SOL_36;Pose de carreaux de grès scellés 30*30 hors fourniture;M2;0;0;11;9,69;1,15;21,84;50;1;02/05/2024
+SOL;SOL_37;Pose de carreaux de grès collés (simple encollage) 10*10 hors fourniture;M2;0;0;8,76;7,75;0,92;17,43;50;1;02/05/2024
+SOL;SOL_38;Pose de carreaux de grès collés (simple encollage) 20*20 hors fourniture;M2;0;0;11;9,69;1,15;21,84;50;1;02/05/2024
+SOL;SOL_39;Pose de carreaux de grès collés (double encollage) 30*30 hors fourniture;M2;0;0;11;9,69;1,15;21,84;50;1;02/05/2024
+SOL;SOL_40;Carrelage, sur escalier scellé terre cuite 20*20 hors fourniture;ML;0;0;11;0;0;11;50;1;02/05/2024
+SOL;SOL_41;Carrelage, sur escalier collé (simple encollage) grès 15*30 hors fourniture;ML;0;0;11;0;0;11;50;1;02/05/2024
+SOL;SOL_42;Fourniture Plinthes droites collées jusqu'à 20cm de longueur et 10cm hauteur;ML;0;0;11;0;0;11;30;1;02/05/2024
+SOL;SOL_43;Fourniture carrelage (sol grés cerame ou mural en faïence standard);M2;29,4;0;0;0;0;29,4;50;1;02/05/2024
+SOL;SOL_44;Fourniture plinthe en grés cerame standard;ML;4,75;0;0;0;0;4,75;30;1;02/05/2024
+SOL;SOL_45;Repose seule des plinthes en bois réutilisées;ML;0;0;1,1;0;0;1,1;30;1;02/05/2024
+SOL;SOL_46;Plus value pour pose en diagonale;M2;0;0;3,3;0;0;3,3;;3;02/05/2024
+SOL;SOL_47;Dépose de parquet;M2;15,5;0;0;0;0;15,5;45;1;02/05/2024
+SOL;SOL_48;Pose à bâtons rompus chêne standard ;M2;0;0;8,47;0;15,5;23,97;45;1;02/05/2024
+SOL;SOL_49;Replanissage et ponçage des parquets neufs;M2;0;0;0,3;0;0;0,3;;3;02/05/2024
+SOL;SOL_50;Replanissage et ponçage des parquets anciens;M2;0;0;0,45;0;0;0,45;;3;02/05/2024
+SOL;SOL_51;Vitrification du parquet y compris ponçage et préparation;M2;0;1;0,3;0;0;1,3;;3;02/05/2024
+SOL;SOL_52;Dépose isolant parquet;M2;0,17;0;0;0;0;0,17;20;1;02/05/2024
+SOL;SOL_53;Dépose de parquet flottant ;M2;20,3;0;0;0;0;20,3;20;1;02/05/2024
+SOL;SOL_54;Dépose de parquet flottant avec son isolant;M2;20,47;0;0;0;0;20,47;20;3;02/05/2024
+SOL;SOL_55;Remplacement de sous-couche acoustique (dépose, évacuation et pose );M2;0,17;2,43;0,67;0;0,17;3,44;20;1;02/05/2024
+SOL;SOL_56;Remplacement parquet flottant / stratifié (dépose, évacuation et pose );M2;20,3;2,48;1,58;6,15;20,3;50,81;20;1;02/05/2024
+SOL;SOL_57;Remplacement parquet flottant / stratifié (dépose, évacuation, préparation des sols, pose y compris sous-couche);M2;20,47;4,91;2,25;6,15;20,47;54,25;20;3;02/05/2024
+SOL;SOL_58;Fourniture parquet stratifié classique;M2;0;2,48;0;0;0;2,48;20;1;02/05/2024
+SOL;SOL_59;Remplacement parquet collé (dépose, préparation support et pose du parquet);M2;11,7;1,5;8,11;4,98;11,17;37,46;30;1;02/05/2024
+SOL;SOL_60;Fourniture parquet collé ;M2;0;1,5;0;0;0;1,5;30;1;02/05/2024
+SOL;SOL_61;Dépose soignée de plinthe ou quart de rond;ML;0,52;0;0;0;0;0,52;30;1;02/05/2024
+SOL;SOL_62;Remplacement plinthe ou quart de rond (dépose, fourniture et pose);ML;1,4;-1,16;0,5;0,07;1,4;2,21;30;1;02/05/2024
+SOL;SOL_63;Dépose de panneau plancher sans fourniture;M2;43,6;0;0;0;0;43,6;50;1;02/05/2024
+SOL;SOL_64;Pose panneau agglo CTBH (de 16 à 22 mm) sans isolant sans fourniture;M2;0;0;3,43;0;43,6;47,03;50;1;02/05/2024
+SOL;SOL_65;Dépose, fourniture et pose de panneau de type OSB;M2;43,6;25,9;3,43;0;43,6;116,53;50;1;02/05/2024
+SOL;SOL_66;Dépose de parquet sur lambourdes;M2;15,5;0;0;0;0;15,5;45;1;02/05/2024
+SOL;SOL_67;Remplacement parquet massif sur lambourdes (dépose, pose du parquet);M2;15,5;-10,1;8,47;0;15,5;29,37;45;1;02/05/2024
+SOL;SOL_68;Fourniture parquet lame bois massif en pin;M2;0;-16,6;0;0;25,4;8,8;45;1;02/05/2024
+SOL;SOL_69;Fourniture parquet lame bois massif en chêne ;M2;0;-10,1;0;0;15,5;5,4;45;1;02/05/2024
+SOL;SOL_70;Remplacement plinthe ou quart de rond (dépose, fourniture et pose) ;ML;1,4;-1,16;0,5;0,07;1,4;2,21;30;1;02/05/2024
+SOL;SOL_71;Fourniture plinthe bois;ML;0;-1,16;0;0;0;-1,16;30;1;02/05/2024
+SOL;SOL_72;Forfait minimal (déplacement inclus);FT;0;0;0;0;0;508,1;N/A;2;02/05/2024
+SOL;SOL_73;Terres cuites : décapage et traitement sol;M2;0;0,1;0,2;0;0;0,3;7;3;02/05/2024
+SOL;SOL_74;Décontamination / nettoyage Sol Autre revêtement (céramique, plastique, bois, béton, ...);M2;0;0,1;0,2;0;0;0,3;7;3;02/05/2024
+SOL;SOL_75;Décontamination / nettoyage Sol Moquette (extraction et nettoyage) ;M2;0;0,2;0,3;0;0;0,5;7;3;02/05/2024
+SOL;SOL_76;Fourniture et pose de tout-type de sous-couche acoustique;M2;0;1,51;0,48;0;0,1;2,09;50;1;02/05/2024
+SOL;SOL_77;Facturation minimale parquet (toutes sujétions y compris fournitures);FT;0;0;42,35;0;77,5;119,85;20;2;02/05/2024
+SOL;SOL_78;Facturation minimale d'intervention carrelage;FT;0,56;33,9;12,09;0;0,56;47,11;50;2;02/05/2024
+SOL;SOL_79;Facturation minimale maçonnerie (toutes sujétions y compris fournitures);FT;5,8;182,8;11,2;0;5,8;205,6;50;1;02/05/2024
+SERRURERIE;SERRURERIE_1;Déplacement serrurier (un forfait unique facturable);FT;0;0;18,2;0;0;18,2;N/A;3;02/05/2024
+SERRURERIE;SERRURERIE_2;Remplacement verrou ou cylindre tout type (à bouton ou double entrée y compris haute sureté quelque soit le nombre de cylindres). Déplacement compris. De 8h00 à 19h00 sauf week end et jours fériés. ;FT;0,08;19;1,13;0;0,08;20,29;20;1;02/05/2024
+SERRURERIE;SERRURERIE_3;Remplacement verrou ou cylindre tout type (à bouton ou double entrée y compris haute sureté quelque soit le nombre de cylindres). Déplacement compris. Nuit (de 19h à 08h), dimanche et jours fériés.;FT;0,08;19;1,13;0;0,08;20,29;20;1;02/05/2024
+SERRURERIE;SERRURERIE_4;Remplacement serrure mono point tout type (à larder ou en applique). Déplacement compris. De 8h00 à 19h00 sauf week end et jours fériés.;FT;0,08;19;1,13;0;0,08;20,29;20;1;02/05/2024
+SERRURERIE;SERRURERIE_5;Remplacement serrure 3 ou 5 points tout type (à larder ou en applique). Déplacement compris. De 8h00 à 19h00 sauf week end et jours fériés. ;FT;0,08;19;1,13;0;0,08;20,29;20;1;02/05/2024
+SERRURERIE;SERRURERIE_6;Fourniture d'un cylindre européen clé plate sans carte ttes marques;U;0,08;19;1,13;0;0,08;20,29;20;1;02/05/2024
+SERRURERIE;SERRURERIE_7;Fourniture d'un cylindre européen clé de sureté à trou BRICARD;U;0,08;19;1,13;0;0,08;20,29;20;1;02/05/2024
+SERRURERIE;SERRURERIE_8;Fourniture d'un cylindre européen HERACLES;U;0,08;19;1,13;0;0,08;20,29;20;1;02/05/2024
+SERRURERIE;SERRURERIE_9;Fourniture d'un cylindre européen VACHETTE (type RADIAL NT);U;0,08;19;1,13;0;0,08;20,29;20;1;02/05/2024
+SERRURERIE;SERRURERIE_10;Fourniture d'un cylindre rond FICHET 787;U;0,08;19;1,13;0;0,08;20,29;20;1;02/05/2024
+SERRURERIE;SERRURERIE_11;Fourniture d'un cylindre rond HERACLES;U;0,08;19;1,13;0;0,08;20,29;20;1;02/05/2024
+SERRURERIE;SERRURERIE_12;Fourniture d'un cylindre rond VAC PICARD;U;0,08;19;1,13;0;0,08;20,29;20;1;02/05/2024
+SERRURERIE;SERRURERIE_13;Fourniture d'un cylindre rond  JPM (type VEGA);U;0,08;19;1,13;0;0,08;20,29;20;1;02/05/2024
+SERRURERIE;SERRURERIE_14;Fourniture d'un cylindre rond  JPM (type KESO);U;0,08;19;1,13;0;0,08;20,29;20;1;02/05/2024
+SERRURERIE;SERRURERIE_15;Fourniture d'un verrou 1 point clé plate;U;0,08;19;1,13;0;0,08;20,29;20;1;02/05/2024
+SERRURERIE;SERRURERIE_16;Fourniture d'un verrou de sureté 1 point clé à trou;U;0,08;19;1,13;0;0,08;20,29;20;1;02/05/2024
+SERRURERIE;SERRURERIE_17;Fourniture d'un verrou de sureté 1 point A2P 1 étoile ou ailettes;U;0,08;19;1,13;0;0,08;20,29;20;1;02/05/2024
+SERRURERIE;SERRURERIE_18;Fourniture d'une serrure en applique 1 point type SISA;U;0,08;19;1,13;0;0,08;20,29;20;1;02/05/2024
+SERRURERIE;SERRURERIE_19;Fourniture d'une serrure en applique multipoints type ISEO ou CR;U;0,08;19;1,13;0;0,08;20,29;20;1;02/05/2024
+SERRURERIE;SERRURERIE_20;Fourniture d'une serrure en applique 3 points standard;U;0,08;19;1,13;0;0,08;20,29;20;1;02/05/2024
+SERRURERIE;SERRURERIE_21;Fourniture d'une serrure en applique 3 points A2P 1 étoile;U;0,08;19;1,13;0;0,08;20,29;20;1;02/05/2024
+SERRURERIE;SERRURERIE_22;Fourniture d'une serrure à larder 1 point multibat;U;0,08;19;1,13;0;0,08;20,29;20;1;02/05/2024
+SERRURERIE;SERRURERIE_23;Fourniture d'une serrure à larder 3 points;U;0,08;19;1,13;0;0,08;20,29;20;1;02/05/2024
+SERRURERIE;SERRURERIE_24;Fourniture d'une serrure à larder 3 points A2P 1étoile;U;0,08;19;1,13;0;0,08;20,29;20;1;02/05/2024
+RDF;RDF_1;Localisation et diagnostic de l'origine d'une fuite non destructive < 2 heures, mise en sécurité de l'installation (bouchonnage ou isolation partielle du réseau) compte rendu d'intervention avec photographie qui précise si la fuite n'est pas réparée l'estimation du coût de réparation).;FT;0;0,2;20;0;0;20,2;10;3;02/05/2024
+RDF;RDF_2;Localisation de l'origine d'une fuite non destructive < 2 heures & réparation de canalisation non encastrée ou de robinet d'arrêt et photographie avant et après réparation;FT;0,2;0,4;20,2;0;0;20,8;10;3;02/05/2024
+RDF;RDF_3;Forfait de recherche de fuite non destructive <= 2 h d'intervention. Frais de déplacement inclus.;FT;0;0,2;20;0;0;20,2;10;2;02/05/2024
+RDF;RDF_4;Forfait de recherche de fuite non destructive >= 2 h d'intervention. Frais de déplacement inclus.;FT;0;0,2;22,4;0;0;22,6;10;2;02/05/2024
+PORTAIL;PORTAIL_1;Dépose de clôture grillagée souple;ML;2,02;0;0;0;0;2,02;50;1;02/05/2024
+PORTAIL;PORTAIL_2;Fourniture et pose de grille de clôture H=0,60m, tube carré 30x30;ML;0;31,4;10,2;0;2,02;43,62;50;1;02/05/2024
+PORTAIL;PORTAIL_3;Fourniture et pose de grille de clôture H=0,80m, tube carré 35x35;ML;0;31,4;10,2;0;2,02;43,62;50;1;02/05/2024
+PORTAIL;PORTAIL_4;Fourniture et pose de grille de clôture H=1,00m, tube carré 35x36;ML;0;31,4;10,2;0;2,02;43,62;50;1;02/05/2024
+PORTAIL;PORTAIL_5;Remplacement portail standard Alu;U;32,22;6021;29,8;0;32,22;6115,24;50;2;02/05/2024
+PORTAIL;PORTAIL_6;Remplacement portail standard PVC;U;136,8;1071;27,4;0;136,8;1372;50;2;02/05/2024
+PORTAIL;PORTAIL_7;Remplacement portail standard Bois;U;459;264,6;27,4;0;459;1210;50;2;02/05/2024
+PORTAIL;PORTAIL_8;Main d'œuvre pour remplacement portail standard Alu;U;32,22;0;29,8;0;0;62,02;50;2;02/05/2024
+PORTAIL;PORTAIL_9;Main d'œuvre pour remplacement portail standard PVC;U;136,8;0;27,4;0;0;164,2;50;2;02/05/2024
+PORTAIL;PORTAIL_10;Main d'œuvre pour remplacement portail standard Bois;U;459;0;27,4;0;0;486,4;50;2;02/05/2024
+PORTAIL;PORTAIL_11;Fourniture d'un portail aluminium en forme de chapeau de gendarme barre rondes;U;0;6021;0;0;0;6021;50;2;02/05/2024
+PORTAIL;PORTAIL_12;Fourniture d'un portail aluminium en forme de chapeau de gendarme plein;U;0;6021;0;0;0;6021;50;2;02/05/2024
+PORTAIL;PORTAIL_13;Fourniture d'un portail aluminium en forme de chapeau de gendarme tôle;U;0;6021;0;0;0;6021;50;2;02/05/2024
+PORTAIL;PORTAIL_14;Fourniture d'un portail aluminium en forme de chapeau de gendarme autre;U;0;6021;0;0;0;6021;50;2;02/05/2024
+PORTAIL;PORTAIL_15;Fourniture d'un portail aluminium;U;0;6021;0;0;0;6021;50;2;02/05/2024
+PORTAIL;PORTAIL_16;Fourniture d'un portail PVC;U;0;1071;0;0;136,8;1207,8;60;2;02/05/2024
+PORTAIL;PORTAIL_17;Fourniture d'un portail bois épaisseur 3.5 cm;U;0;264,6;0;0;459;723,6;35;2;02/05/2024
+PORTAIL;PORTAIL_18;Fourniture d'un portail bois épaisseur 4.0 cm;U;0;264,6;0;0;459;723,6;35;2;02/05/2024
+PORTAIL;PORTAIL_19;Fourniture de motorisation enterrée de portail battant et accessoires;U;0;187;0;0;8,76;195,76;15;1;02/05/2024
+PORTAIL;PORTAIL_20;Main d'œuvre de pose d'un moteur de portail pivot enterré;U;8,76;0;22,3;0;0;31,06;15;1;02/05/2024
+PORTAIL;PORTAIL_21;Fourniture de vérins hydrauliques de portail et accessoires;U;0;9,7;0;0;9,7;19,4;15;1;02/05/2024
+PORTAIL;PORTAIL_22;Main d'œuvre de pose de vérins hydraulique de portail;U;9,7;0;6;0;0;15,7;15;2;02/05/2024
+PORTAIL;PORTAIL_23;Fourniture de bras articulés de portail et accessoires;U;0;4,85;0;0;4,85;9,7;15;2;02/05/2024
+PORTAIL;PORTAIL_24;Main d'œuvre de pose de bras articulés;U;4,85;0;3,6;0;0;8,45;15;2;02/05/2024
+PORTAIL;PORTAIL_25;Fourniture d'un moteur de portail coulissant à crémaillère et accessoires;U;0;187;0;0;8,76;195,76;15;1;02/05/2024
+PORTAIL;PORTAIL_26;Main d'œuvre de pose d'un moteur de portail coulissant;U;8,76;0;22,3;0;0;31,06;15;1;02/05/2024
+PORTAIL;PORTAIL_27;Démolition d'un seul pilier béton, chargement dans camion et enlèvement en décharge publique;U;0,61;0;0;0;0;0,61;100;1;02/05/2024
+PORTAIL;PORTAIL_28;Remplacement couronnement pour pilier en béton préfabriqué ton gris à pointe de diamant, toutes sujétions comprises;U;0,61;66;7,92;-2,47;0,61;72,67;100;1;02/05/2024
+PORTAIL;PORTAIL_29;Reconstruction pilier en blocs béton avec béton fait sur place;U;0;66;10,32;-2,74;0,61;74,19;100;1;02/05/2024
+PORTAIL;PORTAIL_30;Reconstruction pilier béton coulé en place;U;0;66;10,32;-2,74;0,61;74,19;100;1;02/05/2024
+PORTAIL;PORTAIL_31;Pilier plein sans raidisseur central en béton armé avec parement et jointoiement compris (hors terrassement, fondation et couronnement);ML;0;59;18,42;-4,39;2,19;75,22;100;1;02/05/2024
+PORTAIL;PORTAIL_32;Pilier plein avec raidisseur central en béton armé avec parement et jointoiement compris (hors terrassement, fondation et couronnement);ML;0;59;18,42;-4,39;2,19;75,22;100;1;02/05/2024
+PORTAIL;PORTAIL_33;Reconstruction pilier en briques ;U;5,48;77,5;35,2;0;5,48;123,66;50;1;02/05/2024
+PORTAIL;PORTAIL_34;Reconstruction pilier en blocs béton avec béton livré sur chantier;U;0;66;10,32;-2,74;0,61;74,19;100;1;02/05/2024
+PORTAIL;PORTAIL_35;Reconstruction pilier préfabriqué enduit ciment gris;U;0;73,8;7,86;-1,72;10,86;90,8;100;1;02/05/2024
+PORTAIL;PORTAIL_36;Reconstruction pilier préfabriqué enduit ton pierre;U;0;73,8;7,86;-1,72;10,86;90,8;100;1;02/05/2024
+PORTAIL;PORTAIL_37;Reconstruction pilier préfabriqué enduit bosselé ton pierre;U;0;73,8;7,86;-1,72;10,86;90,8;100;1;02/05/2024
+PORTAIL;PORTAIL_38;Reconstruction pilier préfabriqué ton brique;U;0;73,8;7,86;-1,72;10,86;90,8;100;1;02/05/2024
+PLATRE;PLATRE_1;Dépose de doublage en matériaux de toute nature collé ou vissé;M2;0,56;0;0;0;0;0,65;50;1;02/05/2024
+PLATRE;PLATRE_2;Démolition totale ou partielle de cloisons en matériaux de toute nature, jusqu'à 150mm d'épaisseur;M2;0,56;0;0;0;0;0,56;50;1;02/05/2024
+PLATRE;PLATRE_3;Transport par brouette de déchets;M3;0;0;1,2;0;0;1,2;;2;02/05/2024
+PLATRE;PLATRE_4;Dépose de doublage en matériaux de toute nature collé ou vissé & descente par goulotte éventuelle.;M3;0,56;0;0;0;0;0,56;50;1;02/05/2024
+PLATRE;PLATRE_5;Dépose de doublage en matériaux de toute nature collé ou vissé & Enlèvement par véhicule léger.;M3;0,56;0;0;0;0;0,56;50;1;02/05/2024
+PLATRE;PLATRE_6;Remplacement de cloison ou doublage en plaques de plâtres type BA13 sur ossature conservée (dépose existant, fourniture et pose y compris bande);M2;0,56;6,92;2,2;0,42;0,56;10,1;50;1;02/05/2024
+PLATRE;PLATRE_7;Remplacement d'ossature métallique ;ML;0,01;2,05;0,16;0;0,01;2,24;50;1;02/05/2024
+PLATRE;PLATRE_8;Remplacement d'ossature métallique ;M2;0,04;7,38;0,59;0;0,04;8,05;50;3;02/05/2024
+PLATRE;PLATRE_9;fourniture et pose  isolant ;M2;0;8,13;1,58;0;0,29;10;50;1;02/05/2024
+PLATRE;PLATRE_10;Remplacement cloison type BA13 (dépose existant, évacuation, fourniture et pose);M2;0,56;6,92;2,2;0,42;0,56;10,1;50;1;02/05/2024
+PLATRE;PLATRE_11;Remplacement cloison type BA13 Placostil de 72/48 y compris ossature métallique (dépose existant, évacuation, fourniture et pose y compris isolant et bande);M2;0,61;22,43;4,37;0,42;0,9;28,72;50;2;02/05/2024
+PLATRE;PLATRE_12;Majoration pour semelle résiliente  ép = 50mm;M2;0,16;2,3;0,3;0;0,16;2,92;50;1;02/05/2024
+PLATRE;PLATRE_13;Cloison standard, 2 plaques de plâtre  vissées sur ossature métallique, montants simples ép = 72mm avec ép plaques = 13mm ;M2;1,46;0;0;0;0;1,46;50;1;02/05/2024
+PLATRE;PLATRE_14;Cloison standard, 2 plaques de plâtre  vissées sur ossature métallique, montants simples ép = 72mm avec ép plaques = 18mm ;M2;1,46;0;0;0;0;1,46;50;1;02/05/2024
+PLATRE;PLATRE_15;Cloison standard, 2 plaques de plâtre  vissées sur ossature métallique, montants simples ép = 100mm avec ép plaques = 15mm ;M2;2,16;0;0;0;0;2,16;50;1;02/05/2024
+PLATRE;PLATRE_16;Cloison standard, 2 plaques de plâtre  vissées sur ossature métallique, montants simples ép = 98mm avec ép plaques = 18mm ;M2;2,16;0;0;0;0;2,16;50;1;02/05/2024
+PLATRE;PLATRE_17;Cloison en brique plâtrière hourdées au plâtre ép = 50mm;M2;0,38;0;0;0;0;0,38;100;1;02/05/2024
+PLATRE;PLATRE_18;Cloison en plaques de plâtre vissées sur rails, jointées par bandes et enduit spécial - ép plaques = 13 mm;M2;0;6,92;2,2;0,42;0,56;10,1;50;1;02/05/2024
+PLATRE;PLATRE_19;Habillage de parois verticales en plaques vissées sur montants métalliques, façon de joint bande et enduit - 13 mm d'épaisseur -;M2;0;9,97;3,17;0,6;0,81;14,55;50;1;02/05/2024
+PLATRE;PLATRE_20;Remplacement de cloison ou doublage en plaques de plâtres type BA13 sur ossature conservée (dépose existant, fourniture et pose y compris bande);M2;0,56;6,92;2,2;0,42;0,56;10,1;50;1;02/05/2024
+PLATRE;PLATRE_21;Rebouchage de fissures : grattage, piquage, reprise d'enduit plâtre y compris calicot si nécessaire, ponçage < 25% de la surface;M2;0,06;1,43;0,42;0;0,06;1,96;50;1;02/05/2024
+PLATRE;PLATRE_22;Rebouchage de fissures : grattage, piquage, reprise d'enduit plâtre y compris calicot si nécessaire, ponçage de 25% à 40% de la surface;M2;0,1;2,43;0,71;0;0,1;3,33;50;1;02/05/2024
+PLATRE;PLATRE_23;Reprise de plâtres sur murs et plafonds au-delà de 25 % de surface endommagée ou rebouchage de fissures (y compris piquage, préparation support et calicot si nécessaire);M2;1,04;18;3,71;0;1,04;23,79;50;1;02/05/2024
+PLATRE;PLATRE_24;Enduit plâtre ordinaire projeté sur béton de 12 à 15 mm d'épaisseur, toutes sujétions comprises ;M2;0;1,43;0,42;0;0,06;1,91;50;1;02/05/2024
+PLATRE;PLATRE_25;Enduit plâtre fin traditionnel  sur briques ou agglomérés de 12 à 15 mm d'épaisseur, toutes sujétions comprises, sauf gobetis d'accrochage sur béton ;M2;0;1,43;0,42;0;0,06;1,91;50;1;02/05/2024
+PLATRE;PLATRE_26;Enduit plâtre fin traditionnel sur béton de 12 à 15 mm d'épaisseur, toutes sujétions comprises, sauf gobetis d'accrochage sur béton;M2;0;1,43;0,42;0;0,06;1,91;50;1;02/05/2024
+PLATRE;PLATRE_27;Gobetis d'accrochage sur béton ;M2;0;3,6;0,83;0;0,71;5,14;50;2;02/05/2024
+PLAFOND;PLAFOND_1;Piquage et enduit plafond plâtre de 12 mm jusqu'à 25% de la surface;M2;0,71;3,61;0,83;0;0,71;5,85;30;1;02/05/2024
+PLAFOND;PLAFOND_2;Rebouchage et reprise d'enduit de lissage sur plafond complément au-delà de 25% inclus dans la mise en peinture (grattage, piquage, reprise d'enduit de lissage y compris calicot si nécessaire, ponçage);M2;0,71;3,61;0,83;0;0,71;5,85;30;1;02/05/2024
+PLAFOND;PLAFOND_3;Remplacement toile de verre sur plafond (arrachage toile de verre, pose toile de verre);M2;0,08;1,6;0,24;0;0,08;2;25;1;02/05/2024
+PLAFOND;PLAFOND_4;Remise en peinture phase aqueuse  sur plafond (impression, 2 couches de peinture);M2;0,12;2,76;0,36;0;0,12;3,35;7;1;02/05/2024
+PLAFOND;PLAFOND_5;Grattage, rebouchage, ponçage sur plafond;M2;0,71;3,61;0,83;0;0,71;5,86;30;1;02/05/2024
+PLAFOND;PLAFOND_6;Remplacement toile de verre et remise en peinture phase aqueuse  sur plafond (arrachage toile de verre, grattage, rebouchage, ponçage, impression, pose toile de verre, 2 couches de peinture);M2;1,31;17,36;2,64;0;1,3;22,61;30;3;02/05/2024
+PLAFOND;PLAFOND_7;Toile de verre pose simple sur plafond;M2;0;0;0,24;0;0,08;0,32;25;1;02/05/2024
+PLAFOND;PLAFOND_8;Lessivage, égrenage, ouverture des fissures sur plafond;M2;0;0;0,96;0;0;0,96;30;2;02/05/2024
+PLAFOND;PLAFOND_9;Grattage des parties écaillées sur plafond;M2;0,71;0;0;0;0;0,71;30;1;02/05/2024
+PLAFOND;PLAFOND_10;Impression, ébauchage, au mixte sur plafond;M2;0;0;0,83;0;0,71;1,54;30;1;02/05/2024
+PLAFOND;PLAFOND_11;Reprise d'enduit, ponçage sur plafond;M2;0,71;3,61;0,83;0;0,71;5,86;30;1;02/05/2024
+PLAFOND;PLAFOND_12;Mise en peinture mat sur plafond et reprise du support sur plafond (lessivage, grattage, rebouchage de fissures et reprise d'enduit de lissage jusqu'à 25% de la surface, couche d'impression et 2 couches);M2;1,21;15,44;2,35;0;1,21;20,21;30;3;02/05/2024
+PLAFOND;PLAFOND_13;Finition 2 couches peinture aqueuse satinée ou brillante / vernis / lasure y compris lessivage, égrenage, ouverture des fissures, grattage des parties écaillées, impression, ébauchage, au mixte, reprise d'enduit, ponçage;M2;1,21;15,44;2,35;0;1,21;20,21;30;3;02/05/2024
+PLAFOND;PLAFOND_14;Lessivage et remise à la teinte sur plafond (1 couche de peinture aqueuse);M2;0,06;1,38;0,18;0;0,06;1,67;7;1;02/05/2024
+PLAFOND;PLAFOND_15;Lessivage en conservation  sur plafond;M2;0;0;0,09;0;0;0,09;7;3;02/05/2024
+PLAFOND;PLAFOND_16;Décollage de papier peint à la décolleuse sur plafond;M2;0,04;0;0;0;0;0,04;10;3;02/05/2024
+PLAFOND;PLAFOND_17;Grattage des parties écaillées, impression partielle / Rebouchage, enduit à l'eau, ponçage sur plafond;M2;0,71;3,61;0,83;0;0,71;5,86;30;1;02/05/2024
+PLAFOND;PLAFOND_18;Remplacement papiers peints (détapissage, pose papier peint) sur plafond;M2;0,04;0;1,27;0;0,04;1,35;10;1;02/05/2024
+PLAFOND;PLAFOND_19;Remplacement papiers peints (détapissage, rebouchage, ponçage, impression, pose papier peint) sur plafond;M2;0,83;3,61;4,64;0;0,83;9,92;30;2;02/05/2024
+PLAFOND;PLAFOND_20;Fourniture papier peint classique ou vinyle pour plafond;RLX;0;8,43;0;0;0;8,43;10;1;02/05/2024
+PLAFOND;PLAFOND_21;Protection, embarras, nettoyage, si justifié;M2;0;0;0,2;0;0;0,2;;3;02/05/2024
+PLAFOND;PLAFOND_22;Déplacements et prises de mesures inclus;FT;0;0;20;0;0;20;;3;02/05/2024
+PLAFOND;PLAFOND_23;Démolition totale ou partielle de plafonds en plaques de plâtre;M2;1,36;0;0;0;0;1,36;50;1;02/05/2024
+PLAFOND;PLAFOND_24;Remplacement d'ossature métallique pour faux plafond ;ML;0,01;2,05;0,16;0;0,01;2,24;50;1;02/05/2024
+PLAFOND;PLAFOND_25;Remplacement d'ossature métallique pour faux plafond ;M2;0,04;7,38;0,59;0;0,04;8,05;50;2;02/05/2024
+PLAFOND;PLAFOND_26;Démolition totale ou partielle de plafonds en staff ou en plaques de plâtre, y compris dépose des suspentes  ;M2;1,36;0;0;0;0;9,41;50;1;02/05/2024
+PLAFOND;PLAFOND_27;Dépose de doublage en matériaux de toute nature collé ou vissé en plafond;M2;0,56;0;0;0;0;0,56;50;1;02/05/2024
+PLAFOND;PLAFOND_28;Transport par brouette de déchets;M3;0;0;1,2;0;0;1,2;;2;02/05/2024
+PLAFOND;PLAFOND_29;Dépose de matériaux de toute nature collé ou vissé & descente par goulotte éventuelle.;M3;0,65;0;0;0;0;0,65;50;1;02/05/2024
+PLAFOND;PLAFOND_30;Dépose de matériaux de toute nature collé ou vissé & Enlèvement par véhicule léger.;M3;0,65;0;0;0;0;0,65;50;1;02/05/2024
+PLAFOND;PLAFOND_31;Remplacement d'ossature métallique pour faux plafond ;ML;0,01;2,05;0,16;0;0,01;2,24;50;1;02/05/2024
+PLAFOND;PLAFOND_32;Remplacement d'ossature métallique pour faux plafond ;M2;0,04;7,38;0,59;0;0,04;8,05;50;2;02/05/2024
+PLAFOND;PLAFOND_33;Remplacement faux plafond en BA 13 (dépose existant, évacuation, fourniture et pose) [ép, entre 12,5 et 18 mm];M2;0,81;9,97;3,17;0,6;0,81;15,36;50;1;02/05/2024
+PLAFOND;PLAFOND_34;Remplacement faux plafond en BA 13 y compris ossature métallique (dépose existant, évacuation, fourniture et pose y compris bande);M2;0,85;17,35;3,76;0,6;0,85;23,42;50;3;02/05/2024
+PLAFOND;PLAFOND_35;Pose ossature métallique pour faux plafond en linéaire;ML;0;2,05;0,16;0;0,01;2,22;50;1;02/05/2024
+PLAFOND;PLAFOND_36;Pose ossature métallique pour faux plafond;M2;0;7,38;0,58;0;0,04;8;50;2;02/05/2024
+PLAFOND;PLAFOND_37;Plaque de plâtre 15 mm lisse vissées y compris finition des joints pour faux plafond;M2;0;10,1;3,21;0;1,36;14,67;50;1;02/05/2024
+PLAFOND;PLAFOND_38;Plaque de plâtre 15 mm lisse vissées y compris pose ossature métallique et finition des joints pour faux plafond;M2;0;17,48;3,79;0;1,4;22,67;50;3;02/05/2024
+PLAFOND;PLAFOND_39;Remplacement faux plafond en BA13 sur ossature conservée (dépose existant, évacuation, fourniture et pose y compris bande);M2;0,81;9,97;3,17;0,6;0,81;15,36;50;1;02/05/2024
+PLAFOND;PLAFOND_40;Pose plaque de plâtre 15 mm lisse vissées y compris finition des joints sur ossature métallique conservée;M2;0;10,1;3,21;0;1,36;14,67;50;1;02/05/2024
+PLAFOND;PLAFOND_41;Reprise de plâtres sur murs et plafonds au-delà de 25 % de surface endommagée ou rebouchage de fissures (y compris piquage, préparation support et calicot si nécessaire);M2;1,04;18;3,71;0;1,04;23,79;50;1;02/05/2024
+PLAFOND;PLAFOND_42;Reprise de plâtres sur murs et plafonds au-delà de 25 % de surface endommagée ou rebouchage de fissures (y compris piquage, préparation support et calicot si nécessaire);M2;1,04;18;3,71;0;1,04;23,79;50;1;02/05/2024
+PLAFOND;PLAFOND_43;Enduit plâtre ordinaire sur béton de 12 à 15 mm d'épaisseur, toutes sujétions comprises au plafond;M2;0;1,43;0,42;0;0,06;1,9;50;1;02/05/2024
+PLAFOND;PLAFOND_44;Enduit plâtre fin traditionnel  sur hourdis de 12 à 15 mm d'épaisseur, toutes sujétions comprises au plafond;M2;0;1,43;0,42;0;0,06;1,9;50;1;02/05/2024
+PLAFOND;PLAFOND_45;Enduit plâtre fin traditionnel sur béton de 12 à 15 mm d'épaisseur, toutes sujétions comprises, sauf gobetis d'accrochage sur béton au plafond;M2;0;1,43;0,42;0;0,06;1,9;50;1;02/05/2024
+PLAFOND;PLAFOND_46;Gobetis d'accrochage sur béton au plafond;M2;0;3,6;0,83;0;0,71;5,14;30;1;02/05/2024
+PLAFOND;PLAFOND_47;Remplacement isolant en plafond ép. jusqu'à 300 mm (dépose, évacuation, fourniture et pose);M2;0,22;20,3;6,97;0;0,22;27,71;50;1;02/05/2024
+PLAFOND;PLAFOND_48;Remplacement pare vapeur (pas d'épaisseur spécifique);M2;0,18;3,83;0,44;0;0,18;4,63;50;1;02/05/2024
+PLAFOND;PLAFOND_49;Laine de verre avec Pare Vapeur épaisseur 90 mm;M2;0,4;24,13;7,41;0;0,4;32,34;50;3;02/05/2024
+PLAFOND;PLAFOND_50;Laine de verre avec Pare Vapeur épaisseur 180 mm;M2;0,4;24,13;7,41;0;0,4;32,34;50;3;02/05/2024
+PLAFOND;PLAFOND_51;Panneaux ou dalles de 300 mm x  300 mm pour plafonds suspendus;M2;0;7,48;3;0;0,14;10,62;50;1;02/05/2024
+PLAFOND;PLAFOND_52;Dépose d'anciens plafonds suspendus, toutes sujétions comprises, panneaux ou dalles de 600 mm x  600 mm;M2;0,14;0;0;0;0;0,14;50;1;02/05/2024
+PLAFOND;PLAFOND_53;Dépose d'anciens plafonds suspendus, toutes sujétions comprises, panneaux ou dalles de 600 mm x  1200 mm;M2;0,14;0;0;0;0;0,14;50;1;02/05/2024
+PLAFOND;PLAFOND_54;Dépose de laine de verre ou de roche ;M2;0,12;0;0;0;0;0,11;50;3;02/05/2024
+PLAFOND;PLAFOND_55;Dépose de laine de verre plafond;M2;0,11;0;0;0;0;0,11;50;1;02/05/2024
+PLAFOND;PLAFOND_56;Dépose de laine de roche plafond;M2;0,14;0;0;0;0;0,11;50;1;02/05/2024
+PLAFOND;PLAFOND_57;Dépose de plafond en lames aluminium, toutes sujétions comprises;ML;0;0;0;0;0;0;30;1;02/05/2024
+PLAFOND;PLAFOND_58;Dépose de plafond en lames aluminium, toutes sujétions comprises;M2;0,04;0;0;0;0;0,04;30;2;02/05/2024
+PLAFOND;PLAFOND_59;Remplacement d'ossature métallique ;ML;0,01;2,05;0,16;0;0,01;2,24;50;1;02/05/2024
+PLAFOND;PLAFOND_60;Remplacement d'ossature métallique ;M2;0,04;7,38;0,59;0;0,04;8,05;50;3;02/05/2024
+PLAFOND;PLAFOND_61;Remplacement de plafond suspendu en laine de roche ép.22mm;M2;0,14;7,48;3;0;0,14;10,75;50;1;02/05/2024
+PLAFOND;PLAFOND_62;Remplacement dalles suspendues y compris ossature métallique apparente (dépose existant, évacuation, fourniture et pose ossature et dalle finition texture blanche );M2;0,18;14,86;3,59;0;0,18;18,81;50;3;02/05/2024
+PLAFOND;PLAFOND_63;Dalles de laine de roche agglomérée avec finition texture blanche, y compris ossature métallique toutes sujétions comprises, à bords droits  600 mm x  1200 mm x 15mm;M2;0,32;22,34;6,59;0;0,32;29,56;50;2;02/05/2024
+PLAFOND;PLAFOND_64;Remplacement dalles suspendues sur ossature métallique conservée (dépose existant, évacuation, fourniture et pose dalles finition texture blanche);M2;0,14;7,48;3;0;0,14;10,75;50;1;02/05/2024
+PLAFOND;PLAFOND_65;Dalles de laine de roche agglomérée avec finition texture blanche, sur ossature conservée toutes sujétions comprises, à bords droits  600 mm x  1200 mm x 15mm;M2;0,14;7,48;3;0;0,14;10,75;50;2;02/05/2024
+PLAFOND;PLAFOND_66;Ossature apparentée laquée blanche   600 mm x 600 mm x 0,6 mm;ML;0;1,09;0,15;0;0,03;1,27;50;1;02/05/2024
+PLAFOND;PLAFOND_67;Ossature apparentée laquée blanche   600 mm x 600 mm x 0,6 mm;M2;0;4,36;0,6;0;0,11;5,07;50;2;02/05/2024
+PLAFOND;PLAFOND_68;Lame décorative pour façade en aluminium -;ML;0;1,6;0,1;0;0;1,7;30;1;02/05/2024
+PLAFOND;PLAFOND_69;Lames en aluminium plein de 75 mm couleur pastel ou blanc;M2;0;32;2;0;0,04;34,04;30;2;02/05/2024
+PLAFOND;PLAFOND_70;Lames en aluminium plein de 75 mm en couleur;M2;0;32;2;0;0,04;34,04;30;2;02/05/2024
+PLAFOND;PLAFOND_71;Lames en aluminium plein de 75 mm dorées ou argentées;M2;0;32;2;0;0,04;34,04;30;2;02/05/2024
+PLAFOND;PLAFOND_72;Nettoyage et remise en teinte de lambris par lasure, peinture ou vernis;M2;0,47;1,55;0,11;0,49;0,47;3,09;10;1;02/05/2024
+PLAFOND;PLAFOND_73;Dépose des planches endommagées, mise en place de nouvelles planches y compris fourniture lambris bois ou PVC standard;M2;7,75;-2,72;1,52;0;7,75;14,3;50;2;02/05/2024
+PLAFOND;PLAFOND_74;Remplacement lambris (dépose, pose d'une ossature, pose de lambris bois ou PVC) y compris fourniture bois ou PVC standard;M2;15,5;-5,44;3,03;0;15,5;28,59;50;1;02/05/2024
+PLAFOND;PLAFOND_75;Application de peinture projetée type gouttelette (crépis) sur murs et/ou plafond intégrant grattage, rebouchage, enduit et ponçage;M2;0,71;3,61;0,83;0;0,71;5,85;30;1;02/05/2024
+PLAFOND;PLAFOND_76;Dépose de l'isolant et mise en décharge publique;M2;0,79;0;0;0;0;0,79;50;2;02/05/2024
+PLAFOND;PLAFOND_77;Fourniture et pose de laine de verre en rouleaux épaisseur 120 mm;M2;0;13,2;2,52;0,01;1,2;16,93;50;1;02/05/2024
+PLAFOND;PLAFOND_78;Fourniture et pose de laine de roche en rouleaux Epaisseur 120 mm;M2;0;32;2,28;0;0,38;34,66;50;1;02/05/2024
+MUR;MUR_1;Piquage et enduit plâtre de 12 mm jusqu'à 25% de la surface sur mur;M2;0,71;3,61;0,83;0;0,71;5,86;30;1;02/05/2024
+MUR;MUR_2;Rebouchage de fissures  sur mur : grattage, piquage, reprise d'enduit plâtre y compris calicot si nécessaire, ponçage ;M2;0,06;1,43;0,42;0;0,06;1,96;30;1;02/05/2024
+MUR;MUR_3;Remplacement toile de verre et remise en peinture sur mur (arrachage toile de verre, grattage, rebouchage, ponçage, impression, pose toile de verre, 2 couches de peinture);M2;1,31;1,74;2,64;0;1,3;6,99;30;2;02/05/2024
+MUR;MUR_4;Toile de verre pose simple sur mur;M2;0;0;0,24;0;0,08;0,32;25;1;02/05/2024
+MUR;MUR_5;Lessivage, égrenage, ouverture des fissures sur mur;M2;0;0;0,96;0;0;0,96;30;2;02/05/2024
+MUR;MUR_5;Facturation minimale peinture (toutes sujétions y compris fournitures);FT;3,63;46,32;7,05;0;3,63;60,63;30;2;02/05/2024
+MUR;MUR_6;Grattage des parties écaillées sur mur;M2;0,71;0;0;0;0;0,71;30;1;02/05/2024
+MUR;MUR_7;Impression, ébauchage, au mixte sur mur;M2;0;0;0,83;0;0,71;1,54;30;1;02/05/2024
+MUR;MUR_8;Reprise d'enduit, ponçage sur mur;M2;0,71;3,61;0,83;0;0,71;5,86;30;1;02/05/2024
+MUR;MUR_9;Mise en peinture sur mur et reprise du support (lessivage, grattage, rebouchage de fissures et reprise d'enduit de lissage jusqu'à 25% de la surface, couche d'impression et 2 couches);M2;1,21;15,44;2,35;0;1,21;20,21;30;2;02/05/2024
+MUR;MUR_10;Mise en peinture de plinthe en bois;M2;0,47;1,55;0,11;0,49;0,47;3,09;10;1;02/05/2024
+MUR;MUR_11;Brossage de la surface altérée avec une solution légèrement acide et rinçage à l'eau claire;M2;0;0,1;0,4;0;0;0,5;;2;02/05/2024
+MUR;MUR_12;Piochage du support, fourniture et mise en œuvre d'un enduit de rebouchage sur zone dégradée;M2;0,89;7,69;1,91;0;0,89;11,39;30;1;02/05/2024
+MUR;MUR_13;Fourniture et application à la brosse et lisseuse d'un enduit à la chaux avec finition mise en cire;M2;15,9;10,07;9,11;0;15,9;50,98;25;1;02/05/2024
+MUR;MUR_14;Mise en vernis ou lasure sur mur (couche d'impression et 2 couches);M2;0,44;1,06;0,16;0,34;0,44;2,43;8;1;02/05/2024
+MUR;MUR_15;Reprise du support  sur mur (lessivage, grattage, rebouchage et reprise d'enduit);M2;0,71;3,61;0,83;0;0,71;5,85;30;1;02/05/2024
+MUR;MUR_16;Mise en vernis ou lasure sur mur et reprise du support (lessivage, grattage, rebouchage et reprise d'enduit, couche d'impression et 2 couches);M2;2,34;7,59;1,42;1,27;2,34;5,85;30;3;02/05/2024
+MUR;MUR_17;Mise en peinture d'uniformisation y compris lessivage sur mur;M2;0,06;1,38;0,18;0;0,06;1,67;7;1;02/05/2024
+MUR;MUR_18;Lessivage en conservation  sur mur;M2;0;0;0,09;0;0;0,09;7;3;02/05/2024
+MUR;MUR_19;Décollage de papier peint à la décolleuse;M2;0,04;0;0;0;0;0,04;10;3;02/05/2024
+MUR;MUR_20;Grattage des parties écaillées, impression partielle;M2;0,71;3,61;0;0;0;4,32;30;1;02/05/2024
+MUR;MUR_21;Rebouchage, enduit à l'eau, ponçage;M2;0;0;0,83;0;0,71;1,54;30;1;02/05/2024
+MUR;MUR_22;Remplacement papiers peints (détapissage, rebouchage, ponçage, impression, pose papier peint);M2;0,83;3,61;4,64;0;0,83;9,92;30;2;02/05/2024
+MUR;MUR_23;Fourniture papier peint classique ou vinyle;RLX;0;8,43;0;0;0;8,43;10;1;02/05/2024
+MUR;MUR_24;Protection, embarras, nettoyage, si justifié;M2;0;0;0,2;0;0;0,2; ;2;02/05/2024
+MUR;MUR_25;Remise en peinture phase aqueuse ( impression, 2 couches de peinture);M2;0,12;2,76;0,36;0;0,12;3,35;7;1;02/05/2024
+MUR;MUR_26;Facturation minimale € HT, toutes sujétions, y compris fournitures et forfait déplacement;FT;0,7;16,56;2,13;0;0,7;20,09;7;2;02/05/2024
+MUR;MUR_27;Démolition de faïences collées ou scellées sur support  plâtre, (y compris piochage du support );M2;0,31;0;0;0;0;0,31;50;1;02/05/2024
+MUR;MUR_28;Démolition de faïences collées ou scellées sur support en ciment, (y compris piochage du support );M2;0,31;0;0;0;0;0,31;50;1;02/05/2024
+MUR;MUR_29;Raccord d'enduit sur 0,30 m de large de support en ciment;ML;0,84;7,69;1,91;0;0,84;10,5;30;1;02/05/2024
+MUR;MUR_30;Reprise ponctuelle au mortier colle;M2;0,01;8,72;0;0;0,01;8,75;50;1;02/05/2024
+MUR;MUR_31;Pose de grès collée (simple encollage) 10*10 hors fournitures;M2;0;0;6,72;0;0,31;7,03;50;1;02/05/2024
+MUR;MUR_32;Pose de grès collée (simple encollage) 20*20 hors fournitures;M2;0;0;6,72;0;0,31;7,03;50;1;02/05/2024
+MUR;MUR_33;Préparation du support (Rebouchage de fissures : grattage, piquage, reprise d'enduit plâtre y compris calicot si nécessaire, ponçage);M2;0,06;1,43;0,42;0;0,06;1,96;50;1;02/05/2024
+MUR;MUR_34;Démolition, évacuation et pose de carrelage au mur collées ou scellées ;M2;0,31;18,8;6,72;0;0,31;26,14;50;1;02/05/2024
+MUR;MUR_35;Démolition, évacuation et pose de carrelage au mur collées ou scellées y compris préparation du support;M2;0,37;20,23;7,14;0;0,37;28,1;50;3;02/05/2024
+MUR;MUR_36;Fourniture carrelage (sol grés cerame ou mural en faïence standard);M2;0;18,8;0;0;0;18,8;50;1;02/05/2024
+MUR;MUR_37;Pose de faïence collée (simple encollage) 20*20 hors fournitures;M2;0;0;6,72;0;0,31;7,03;50;1;02/05/2024
+MUR;MUR_38;Nettoyage et remise en teinte de lambris par lasure, peinture ou vernis;M2;0,47;1,55;0,11;0,49;0,47;3,09;8;1;02/05/2024
+MUR;MUR_39;Dépose des planches de lambris endommagées, mise en place de nouvelles planches, y compris fourniture;M2;15,5;-5,44;3,03;0;15,5;28,59;50;1;02/05/2024
+MUR;MUR_40;Dépose des planches endommagées, mise en place de nouvelles planches, remise en teinte y compris fourniture;M2;18,43;4,25;3,74;3,08;18,43;47,92;50;3;02/05/2024
+MUR;MUR_41;Dépose, pose d'une ossature en bois ou PVC, y compris fourniture;ML;5,91;-2,67;0,58;0;5,91;9,73;50;1;02/05/2024
+MUR;MUR_42;Remplacement lambris (dépose, pose d'une ossature, pose de lambris PVC, remise en teinte) y compris fourniture;M2;0,84;43;75,4;0;0,84;120,09;50;1;02/05/2024
+MUR;MUR_43;Remplacement lambris (dépose, pose d'une ossature, pose de lambris bois, remise en teinte) y compris fourniture;M2;1,61;-4,02;3,21;0;1,61;2,4;50;1;02/05/2024
+MUR;MUR_44;Application de peinture projetée type gouttelette sur murs et/ou plafond intégrant grattage, rebouchage, enduit et ponçage;M2;0,71;3,61;0,83;0;0,71;5,85;30;1;02/05/2024
+MUR;MUR_45;Facturation minimale peinture (toutes sujétions y compris fournitures);FT;3,63;46,32;7,05;0;3,63;60,63;30;2;02/05/2024
+MIROITERIE;MIROITERIE_1;Remplacement glaces transparentes clair ép. 4 mm y compris démastiquage si nécessaire;M2;0,2;21,7;0,41;0;0,2;22,5;50;1;02/05/2024
+MIROITERIE;MIROITERIE_1;Km supplémentaire au delà de 50 km miroitier (avec un maximum de 200 km);KM;0;0;0,24;0;0;0,24;N/A;3;02/05/2024
+MIROITERIE;MIROITERIE_2;VITRAGE de 4 à 6 mm dans double vitrage;M2;0;21,7;0;0;0,2;21,9;50;1;02/05/2024
+MIROITERIE;MIROITERIE_2;Plaque de Polycarbonate Clair ép. 16 mm (y compris dépose);M2;0,18;2,65;1,34;0;0,18;4,34;50;1;02/05/2024
+MIROITERIE;MIROITERIE_3;Remplacement glaces transparentes clair ép. 5 à 6 mm y compris démastiquage si nécessaire;M2;0,27;29,84;0,41;0;0,27;30,78;50;2;02/05/2024
+MIROITERIE;MIROITERIE_3;Plaque de Polycarbonate Clair ép. 32 mm (y compris dépose);M2;0,18;5,3;1,34;0;0,18;6,99;50;1;02/05/2024
+MIROITERIE;MIROITERIE_4;Remplacement glaces transparentes clair ép. 7 à 8 mm y compris démastiquage si nécessaire;M2;0,37;40,69;0,41;0;0,37;41,83;50;2;02/05/2024
+MIROITERIE;MIROITERIE_4;Plaque de Polycarbonate Clair ép. 16 mm option Opale (y compris dépose);M2;0,18;2,65;1,34;0;0,18;4,34;50;1;02/05/2024
+MIROITERIE;MIROITERIE_5;VITRAGE de 8 à 10 mm dans double vitrage;M2;0;48,83;0;0;0,44;49,27;50;2;02/05/2024
+MIROITERIE;MIROITERIE_5;Plaque de Polycarbonate Clair ép. 32 mm option Opale (y compris dépose);M2;0,18;5,3;1,34;0;0,18;6,99;50;1;02/05/2024
+MIROITERIE;MIROITERIE_6;Remplacement glaces transparentes clair ép. 9 à 10 mm y compris démastiquage si nécessaire;M2;0,47;51,54;0,41;0;0,47;52,88;50;2;02/05/2024
+MIROITERIE;MIROITERIE_6;Déplacement et main d'œuvre de pose du vitrage d'insert;FT;0;0;20;0;0;20;40;2;02/05/2024
+MIROITERIE;MIROITERIE_7;Fourniture d'un vitrage Martelé imprimé;M2;0,47;51,54;0,41;0;0,47;52,88;50;2;02/05/2024
+MIROITERIE;MIROITERIE_7;Fourniture vitre d'insert vitroceram 4 mm;M2;0;12,2;0;0;0;12,2;40;3;02/05/2024
+MIROITERIE;MIROITERIE_8;Remplacement double vitrage isolants 4/6/4 ou 4/12/4 préfabriqués y compris traitement des déchets;M2;0,39;43,4;0,41;0;0,39;44,59;50;2;02/05/2024
+MIROITERIE;MIROITERIE_8;Fourniture vitre d'insert vitroceram 5 mm;M2;0;12,2;0;0;0;12,2;40;3;02/05/2024
+MIROITERIE;MIROITERIE_9;Remplacement double vitrage isolants 4/6/4 ou 4/16/4 préfabriqués y compris traitement des déchets;M2;0,39;43,4;0,41;0;0,39;44,59;50;3;02/05/2024
+MIROITERIE;MIROITERIE_9;Plus-value forme ronde ou ovale et fourniture du joint;M2;0;1;0;0;0;1;40;3;02/05/2024
+MIROITERIE;MIROITERIE_10;Remplacement double vitrage isolants 4/6/6 ou 4/12/6 préfabriqués y compris traitement des déchets;M2;0,47;51,54;0,41;0;0,47;52,88;50;3;02/05/2024
+MIROITERIE;MIROITERIE_10;Plus-value forme cintrée et fourniture du joint;M2;0;1;0;0;0;1;40;3;02/05/2024
+MIROITERIE;MIROITERIE_11;Remplacement double vitrage isolants 4/6/8 ou 4/12/8 préfabriqués y compris traitement des déchets;M2;0,56;62,39;0,41;0;0,56;63,92;50;3;02/05/2024
+MIROITERIE;MIROITERIE_11;Plus-value forme en demi cercle et fourniture du joint;M2;0;1;0;0;0;1;40;3;02/05/2024
+MIROITERIE;MIROITERIE_12;Remplacement double vitrage isolants 4/6/10 ou 4/12/10 préfabriqués y compris traitement des déchets;M2;0,66;73,24;0,41;0;0,66;74,97;50;3;02/05/2024
+MIROITERIE;MIROITERIE_12;Dépose et enlèvement en DP de l'ancienne paroi de douche;FT;0;0;22,4;0;0;22,4;N/A;2;02/05/2024
+MIROITERIE;MIROITERIE_13;Remplacement double vitrage isolants 4/6/33.2 ou 4/12/33.2 préfabriqués y compris traitement des déchets;M2;0,45;38,8;0,41;0,08;0,45;40,2;30;1;02/05/2024
+MIROITERIE;MIROITERIE_14;Remplacement double vitrage isolants 4/6/44.2 ou 4/12/44.2 préfabriqués y compris traitement des déchets;M2;0,51;43,1;0,41;0,08;0,51;44,61;30;1;02/05/2024
+MIROITERIE;MIROITERIE_14;Fourniture d'une paroi de douche en verre 8mm trempé fixe;L;0;62,92;0;0;0;62,92;10;3;02/05/2024
+MIROITERIE;MIROITERIE_15;Remplacement double vitrage isolants 4/6/55.2 ou 4/12/55.2 préfabriqués y compris traitement des déchets;M2;0,62;47,7;0,41;0,08;0,62;49,43;30;1;02/05/2024
+MIROITERIE;MIROITERIE_15;Fourniture d'une paroi de douche en verre 8mm trempé coulissante 2 vantaux;L;0;125,84;0;0;0;125,84;10;3;02/05/2024
+MIROITERIE;MIROITERIE_16;Remplacement double vitrage isolants 6/6/6 ou 6/12/6 préfabriqués y compris traitement des déchets;M2;0,54;59,68;0,41;0;0,54;61,16;50;3;02/05/2024
+MIROITERIE;MIROITERIE_16;Fourniture d'une paroi de douche en verre 8mm trempé pivotante;L;0;125,84;0;0;0;125,84;10;3;02/05/2024
+MIROITERIE;MIROITERIE_17;Remplacement double vitrage isolants 6/6/8 ou 6/12/8 préfabriqués y compris traitement des déchets;M2;0,64;70,53;0,41;0;0,64;72,21;50;3;02/05/2024
+MIROITERIE;MIROITERIE_17;Main d'œuvre de pose d'une paroi de douche;FT;0;0;22,4;0;0;22,4;N/A;2;02/05/2024
+MIROITERIE;MIROITERIE_18;Remplacement double vitrage isolants 6/6/10 ou 6/12/10 préfabriqués y compris traitement des déchets;M2;0,74;81,38;0,41;0;0,74;83,25;50;3;02/05/2024
+MIROITERIE;MIROITERIE_18;Facturation minimale miroiterie toutes sujétions, y compris fournitures et forfait déplacement non applicables pour fermetures provisoires;FT;0;0;67,2;0;0;67,2;10;2;02/05/2024
+MIROITERIE;MIROITERIE_19;Remplacement double vitrage isolants 6/6/33.2 ou 6/12/33.2 préfabriqués y compris traitement des déchets;M2;0,53;46,94;0,78;0,08;0,53;48,85;30;1;02/05/2024
+MIROITERIE;MIROITERIE_20;Remplacement double vitrage isolants 6/6/44.2 ou 6/12/44.2 préfabriqués y compris traitement des déchets;M2;0,58;51,24;0,9;0,08;0,58;53,38;30;1;02/05/2024
+MIROITERIE;MIROITERIE_21;Remplacement double vitrage isolants 6/6/55.2 ou 6/12/55.2 préfabriqués y compris traitement des déchets;M2;0,69;55,84;1,02;0,08;0,69;58,32;30;1;02/05/2024
+MIROITERIE;MIROITERIE_22;Remplacement double vitrage isolants 8/6/8 ou 8/12/8 préfabriqués y compris traitement des déchets;M2;0,74;81,38;0,41;0;0,74;83,25;50;3;02/05/2024
+MIROITERIE;MIROITERIE_23;Remplacement double vitrage isolants 8/6/10 ou 8/12/10 préfabriqués y compris traitement des déchets;M2;0,83;92,23;0,41;0;0,83;94,3;50;3;02/05/2024
+MIROITERIE;MIROITERIE_24;Remplacement double vitrage isolants 8/6/33.2 ou 8/12/33.2 préfabriqués y compris traitement des déchets;M2;0,63;57,79;0,41;0,08;0,63;59,53;30;1;02/05/2024
+MIROITERIE;MIROITERIE_25;Remplacement double vitrage isolants 8/6/44.2 ou 8/12/44.2 préfabriqués y compris traitement des déchets;M2;0,68;62,09;0,41;0,08;0,68;63,94;30;1;02/05/2024
+MIROITERIE;MIROITERIE_26;Remplacement double vitrage isolants 8/6/55.2 ou 8/12/55.2 préfabriqués y compris traitement des déchets;M2;0,79;66,69;0,41;0,08;0,79;68,76;30;1;02/05/2024
+MIROITERIE;MIROITERIE_27;Remplacement double vitrage isolants 10/6/10 ou 10/12/10 préfabriqués y compris traitement des déchets;M2;0,93;103,08;0,41;0;0,93;105,35;50;3;02/05/2024
+MIROITERIE;MIROITERIE_28;Remplacement double vitrage isolants 10/6/33.2 ou 10/12/33.2 préfabriqués y compris traitement des déchets;M2;0,72;68,64;0,41;0,08;0,72;70,57;30;3;02/05/2024
+MIROITERIE;MIROITERIE_29;Fermetures provisoire de portes 1 vantail avec du contre-plaqué rigide ou renforcé par des tasseaux de bois y compris déplacement;U;0;-16,55;28,77;0;18,32;30,54;1;1;02/05/2024
+MIROITERIE;MIROITERIE_29;Remplacement double vitrage isolants 10/6/44.2 ou 10/12/44.2 préfabriqués y compris traitement des déchets;M2;0,78;72,94;0,41;0,08;0,78;74,98;30;3;02/05/2024
+MIROITERIE;MIROITERIE_30;Mise en sécurité d'une vitrine par pose d'un contre-plaqué y compris déplacement;M2;0;-87,1;74,7;0;96,4;84;1;1;02/05/2024
+MIROITERIE;MIROITERIE_30;Remplacement double vitrage isolants 10/6/55.2 ou 10/12/55.2 préfabriqués y compris traitement des déchets;M2;0,89;77,54;0,41;0,08;0,89;79,81;30;3;02/05/2024
+MIROITERIE;MIROITERIE_31;Majoration pour intervention nuit (de 19h00 à 08h00), week end et jours fériés;FT;0;0;0;0;0;0;0;3;02/05/2024
+MIROITERIE;MIROITERIE_31;Plus-value pour remplissage gaz argon ;M2;0;0;1,2;0;0;1,2;50;2;02/05/2024
+MIROITERIE;MIROITERIE_32;Remplacement vitrage feuilletés 33-2 (max. 310 x 200 cm) y compris;M2;1,67;136;3,27;0,99;1,67;143,6;30;1;02/05/2024
+MIROITERIE;MIROITERIE_33;VITRAGE FEUILLETE 33-2 dans double vitrage;M2;0;136;0;0,99;1,67;138,66;30;1;02/05/2024
+MIROITERIE;MIROITERIE_34;Remplacement vitrage feuilletés 44-2 (max. 310 x 200 cm) y compris;M2;3,62;265;6,37;1,93;3,62;280,54;30;1;02/05/2024
+MIROITERIE;MIROITERIE_35;VITRAGE FEUILLETE 44-2 dans double vitrage;M2;0;265;0;1,93;3,62;270,55;30;1;02/05/2024
+MIROITERIE;MIROITERIE_36;Remplacement vitrage feuilletés 55-2 (max. 400 x 240 cm) y compris démastiquage si nécessaire;M2;0,31;29,2;0,99;0,21;0,31;31,02;30;1;02/05/2024
+MIROITERIE;MIROITERIE_37;VITRAGE FEUILLETE 55-2 dans double vitrage;M2;0;29,2;0;0,21;0,31;29,72;30;1;02/05/2024
+MIROITERIE;MIROITERIE_38;Remplacement vitrage feuilletés 66-2 (max. 510 x 240 cm) y compris démastiquage si nécessaire;M2;0,31;29,2;0,99;0,21;0,31;31,02;30;1;02/05/2024
+MIROITERIE;MIROITERIE_39;Remplacement vitrage feuilletés 66-6 (antieffraction) y compris démastiquage si nécessaire;M2;0,54;45,3;0,78;0,79;0,54;47,96;30;1;02/05/2024
+MIROITERIE;MIROITERIE_40;Remplacement vitrage feuilletés SP 10 (max. 321 x 240 cm) y compris démastiquage si nécessaire;M2;0,54;45,1;0,78;0,79;0,54;47,76;30;1;02/05/2024
+MIROITERIE;MIROITERIE_41;Remplacement vitrage feuilletés SP 15 (max. 510 x 255 cm) y compris démastiquage si nécessaire;M2;0,54;45,1;0,78;0,79;0,54;47,76;30;1;02/05/2024
+MIROITERIE;MIROITERIE_42;Forfait déplacement Prise de mesure déplacement inclus hors urgences et fermetures provisoires;FT;0;0;19,2;0;0;19,2;N/A;2;02/05/2024
+MIROITERIE;MIROITERIE_43;Forfait déplacement Pose Glace inférieure à 2 m2 hors urgences et fermetures provisoires;FT;0;0;19,4;0;0;19,4;N/A;2;02/05/2024
+MIROITERIE;MIROITERIE_44;Forfait déplacement Pose Glace supérieure à 2 m2 hors urgences et fermetures provisoires;FT;0;0;23;0;0;23;N/A;2;02/05/2024
+MIROITERIE;MIROITERIE_45;Facturation minimum y compris déplacement, fourniture et pose;FT;0;0;0;0;0;106,25;N/A;3;02/05/2024
+MENUISERIE;MENUISERIE_1;Déplacement menuisier (un forfait unique facturable);FT;0;0;18,2;0;0;18,2;N/A;3;02/05/2024
+MENUISERIE;MENUISERIE_2;Remplacement bloc-porte d'entrée en maison individuelle sur cadre existant, y compris dépose, pose de verrous et/ou serrures, réglages, ajustages et toutes sujétions / hors fourniture bloc-porte et serrures;U;4,29;0;12,5;203;0;219,79;30;1;02/05/2024
+MENUISERIE;MENUISERIE_3;Remplacement bloc-porte d'entrée en appartement sur cadre existant, y compris dépose, pose de verrous et/ou serrures, réglages, ajustages et toutes sujétions / hors fourniture bloc-porte et serrures;U;4,29;0;12,5;203;0;219,79;30;1;02/05/2024
+MENUISERIE;MENUISERIE_4;Remplacement bloc-porte d'entrée de cave y compris dépose, scellements sur tout type de support, pose de verrous et/ou serrures, réglages, ajustages et toutes sujétions / hors fourniture bloc-porte et serrures;U;6,35;0;18,5;300,44;0;325,29;30;2;02/05/2024
+MENUISERIE;MENUISERIE_5;Remplacement d’un montant (dormant) de l’huisserie (encadrement) d’une porte ou porte-fenêtre y compris dépose, scellements sur tout type de support, réglages, ajustages, repose des accessoires, fournitures et toutes sujétions;U;4,29;0;28,3;0;0;32,59;30;1;02/05/2024
+MENUISERIE;MENUISERIE_6;Remplacement de tout type de porte-fenêtre 1 vantail sur cadre existant, y compris dépose, réglages, ajustages et toutes sujétions / hors fourniture;U;7,38;0;48,68;0;0;56,05;30;2;02/05/2024
+MENUISERIE;MENUISERIE_7;Remplacement de tout type de porte-fenêtre 2 vantaux sur cadre existant, y compris dépose, réglages, ajustages et toutes sujétions / hors fourniture;U;11,07;0;73,01;0;0;84,08;30;2;02/05/2024
+MENUISERIE;MENUISERIE_8;Remplacement de tout type de fenêtre 1 à 2 vantaux sur cadre existant, y compris dépose, réglages, ajustages et toutes sujétions / hors fourniture;U;10,25;0;23,23;0,24;0;33,72;30;2;02/05/2024
+MENUISERIE;MENUISERIE_9;Plus value par vantail supplémentaire pour pose sur cadre existant ou scellée porte, porte-fenêtre et fenêtre;U;11,78;0;11,62;0,12;0;23,52;30;2;02/05/2024
+MENUISERIE;MENUISERIE_10;Forfait peinture de porte ou fenêtre (1 ou 2 vantaux) réalisation par le menuisier dans le cadre du remplacement ou de la réparation mise en peinture de 2 couches de peinture mate, satinée, brillante ou lasure, 1 ou 2 faces y compris nettoyage, ponçage, fournitures et toutes sujétions;U;0,03;1,54;0,16;0;0,03;1,76;8;1;02/05/2024
+MENUISERIE;MENUISERIE_11;Supplément pour remise en peinture chambranle;U;0,03;1,54;0,16;0;0,03;1,76;8;1;02/05/2024
+MENUISERIE;MENUISERIE_12;Fourniture d'une porte de garage coulissante;U;0;681,6;64,8;0;25,68;772,08;30;2;02/05/2024
+MENUISERIE;MENUISERIE_13;Porte de Garage Main d'œuvre :  Forfait dépose / pose/ petites fournitures / évacuation;U;25,68;0;64,8;0;0;90,48;30;2;02/05/2024
+MENUISERIE;MENUISERIE_14;Remplacement porte de garage taille standard coulissante y compris dépose et toutes sujétions de calage, fixation et équipement de quincaillerie;U;25,68;681,6;64,8;0;25,68;797,76;30;2;02/05/2024
+MENUISERIE;MENUISERIE_15;Remplacement porte de garage sectionnelle taille standard  y compris dépose et toutes sujétions de calage, fixation et équipement de quincaillerie;U;25,68;681,6;64,8;0;25,68;797,76;30;2;02/05/2024
+MENUISERIE;MENUISERIE_16;Remplacement porte de garage basculante taille standard avec ou sans débordement y compris dépose et toutes sujétions de calage, fixation et équipement de quincaillerie / Hors fourniture;U;25,68;0;64,8;0;25,68;116,16;30;2;02/05/2024
+MENUISERIE;MENUISERIE_17;Fourniture d'une porte de garage standard;U;0;681,6;0;0;0;681,6;30;2;02/05/2024
+MENUISERIE;MENUISERIE_18;Remplacement moteur standard porte de garage y compris dépose, raccordement électrique, ajustage, réglages et toutes sujétions;U;8,76;187;22,3;0;8,76;226,82;15;1;02/05/2024
+MENUISERIE;MENUISERIE_19;Remplacement de tout type de volets roulants manuels surface inférieure à 2m2 / hors fournitures avec conservation des branchements existants;U;22,6;0;32,4;0;22,6;77,6;25;2;02/05/2024
+MENUISERIE;MENUISERIE_20;Remplacement de tout type de volets roulants manuels surface entre 2 et 4m2 / hors fournitures avec conservation des branchements existants;U;39,55;0;56,7;0;39,55;135,8;25;2;02/05/2024
+MENUISERIE;MENUISERIE_22;Remplacement de tout type de volets roulants électriques surface inférieure à 2m2 / hors fournitures sans conservation des branchements existants;U;35,87;0;37,97;210;35,87;319,7;25;2;02/05/2024
+MENUISERIE;MENUISERIE_23;Remplacement de tout type de volets roulants électriques surface entre 2 et 4m2 hors fournitures sans conservation des branchements existants;U;52,82;0;62,27;210;52,82;377,9;25;2;02/05/2024
+MENUISERIE;MENUISERIE_24;Remplacement de tout type de volets battants à l’unité par volet y compris scellements sur tout type de support, réglages, ajustages et toutes sujétions / hors fournitures;U;40,6;0;5,74;37,2;40,6;124,14;25;2;02/05/2024
+MENUISERIE;MENUISERIE_25;Reprise sur PVC et bois ≤ 3 impacts, trous, éclats sur un ou plusieurs ouvrages, y compris toutes sujétions thermo-reprofilage, dépose et repose éventuelles, nettoyage, ponçages, lustrage;FT;0;2;48;0;0;50;30;3;02/05/2024
+MENUISERIE;MENUISERIE_25;Dépose du store banne motorisé et enlèvement en décharge publique;U;7,47;0,1;12,9;0;0;20,47;20;3;02/05/2024
+MENUISERIE;MENUISERIE_26;Reprise sur PVC et bois > 4 et ≤ 6 impacts, trous, éclats sur un ou plusieurs ouvrages, y compris toutes sujétions thermo-reprofilage, dépose et repose éventuelles, nettoyage, ponçages, lustrage;FT;0;2;48;0;0;50;30;3;02/05/2024
+MENUISERIE;MENUISERIE_26;Fourniture d'un store banne motorisé à coffret intégral;U;0;132,8;0;118;7,47;258,27;20;1;02/05/2024
+MENUISERIE;MENUISERIE_27;Reprise sur PVC et bois > 7 impacts, trous, éclats sur un ou plusieurs ouvrages, y compris toutes sujétions thermo-reprofilage, dépose et repose éventuelles, nettoyage, ponçages, lustrage;FT;0;2;48;0;0;50;30;3;02/05/2024
+MENUISERIE;MENUISERIE_27;Pose du store banne motorisé;U;0;0,1;12,9;0;0;13;20;3;02/05/2024
+MENUISERIE;MENUISERIE_28;Remplacement de tout type de joint d'étanchéité (en caoutchouc, en PVC …) par vantail de fenêtre, porte-fenêtre, porte...;FT;1,86;20,48;2,1;0;1,86;26,29;30;2;02/05/2024
+MENUISERIE;MENUISERIE_28;Dépose du store banne manuel et enlèvement en décharge publique;U;6,7;0,1;10,8;0;0;17,6;20;1;02/05/2024
+MENUISERIE;MENUISERIE_29;Fourniture d'un store banne manuel à coffret intégral;U;0;109;0;0;6,7;115,7;20;1;02/05/2024
+MENUISERIE;MENUISERIE_30;Pose du store banne manuel;U;0;0,1;10,8;0;0;10,9;20;1;02/05/2024
+MENUISERIE;MENUISERIE_32;Remplacement Baie vitrée en maison individuelle sur cadre existant, y compris dépose, pose de verrous et/ou serrures, réglages, ajustages et toutes sujétions / hors fourniture menuiserie et verrous;FT;11,07;0;73,01;0;0;84,08;30;3;02/05/2024
+MENUISERIE;MENUISERIE_33;Fourniture d'une porte en bois exotique 1 vantail, avec vitrage isolant et grille en fer forgé pour maison individuelle;U;0;162,64;0;0;96,9;259,54;35;1;02/05/2024
+MENUISERIE;MENUISERIE_34;Fourniture d'une porte en bois exotique 2 vantaux, avec vitrage isolant et grille en fer forgé pour maison individuelle;U;0;222,56;0;0;132,6;355,16;35;1;02/05/2024
+MENUISERIE;MENUISERIE_36;Fourniture d'une porte en PVC 1 vantail, bénéficiant de 5 points de fermeture;U;0;226,1;31,16;0;28,88;286,14;60;1;02/05/2024
+MENUISERIE;MENUISERIE_37;Fourniture d'un bloc porte appartement coupe feu, à peindre, munie d'une serrure encastrée 1 point.;U;0;121,22;0;0;11,17;132,39;30;1;02/05/2024
+MENUISERIE;MENUISERIE_38;Fourniture bloc-porte appartement coupe-feu plaqué chêne à vernir, isolation acoustique renforcée, munie d'une serrure 3 points. Renfort acier sur chaque face;U;0;271,7;0;0,93;47,88;320,51;35;1;02/05/2024
+MENUISERIE;MENUISERIE_39;Fourniture bloc-porte acier palier coupe-feu, blindé, isolation thermique et acoustique renforcée, et doté d'une serrure 6 points, choix de couleurs, Judas,;FT;0;312,46;0;1,07;55,06;368,59;35;3;02/05/2024
+MENUISERIE;MENUISERIE_40;Forfait peinture sur porte acier, réalisation dans le cadre de la réparation mise en peinture de 2 couches de peinture sur porte d’entrée, 1 ou 2 faces y compris nettoyage, ponçage, fournitures et toutes sujétions;FT;0,03;1,54;0,16;0;0,03;1,76;8;1;02/05/2024
+MENUISERIE;MENUISERIE_41;Fourniture Porte de cave (service), acier galvanisé, serrure 1 point, épaisseur 40 cm, barillet et poignée fournis;U;0;620,8;0;0;6,86;627,66;30;1;02/05/2024
+MENUISERIE;MENUISERIE_42;Réparation menuiserie bois avec finition peinture (masticage, peinture…);FT;0,03;1,54;2,56;0;0,03;4,16;8;2;02/05/2024
+MENUISERIE;MENUISERIE_43;Fourniture Bloc-porte simple, avec façade pleine et plane prêt-à-peindre;U;0;102,08;0;0;9,41;111,49;30;1;02/05/2024
+MENUISERIE;MENUISERIE_44;Fourniture bloc-porte simple, avec façade à moulures en sapin massif prêt à peindre ou vernir;U;0;102,08;0;0;9,41;111,49;30;3;02/05/2024
+MENUISERIE;MENUISERIE_45;Fourniture Bloc-porte à recouvrement en bois de sapin massif premier choix;U;0;102,08;0;0;9,41;111,49;30;3;02/05/2024
+MENUISERIE;MENUISERIE_46;Fourniture Bloc-porte à recouvrement à façade plaquée bois exotique;U;0;102,08;0;0;9,41;111,49;30;3;02/05/2024
+MENUISERIE;MENUISERIE_47;Fourniture bloc-porte avec façade à moulures en chêne brut à vernir;U;0;102,08;0;0;9,41;111,49;30;3;02/05/2024
+MENUISERIE;MENUISERIE_48;Forfait remplacement bloc-porte intérieure sur cadre existant, y compris dépose, pose de verrous et/ou serrures, réglages, ajustages et toutes sujétions / hors fourniture bloc-porte et serrures;FT;0;102,08;0;0;9,41;111,49;30;3;02/05/2024
+MENUISERIE;MENUISERIE_49;Fourniture fenêtre bois 2 vantaux 120x100;U;0;74,28;0;0;0;74,28;25;2;02/05/2024
+MENUISERIE;MENUISERIE_50;Fourniture fenêtre pvc 2 vantaux 120x100;U;0;135,6;0;0;0;135,6;30;2;02/05/2024
+MENUISERIE;MENUISERIE_51;Fourniture fenêtre alu 2 vantaux 120x100;U;0;189,6;0;0;0;189,6;30;2;02/05/2024
+MENUISERIE;MENUISERIE_52;Fourniture fenêtre bois 2 vantaux oscillo-battant 120x100;U;0;74,28;0;0;0;74,28;25;2;02/05/2024
+MENUISERIE;MENUISERIE_53;Fourniture fenêtre pvc 2 vantaux oscillo-battant 120x100;U;0;135,6;0;0;0;135,6;30;2;02/05/2024
+MENUISERIE;MENUISERIE_54;Fourniture fenêtre alu 2 vantaux oscillo-battant 120x100;U;0;189,6;0;0;0;189,6;30;2;02/05/2024
+MENUISERIE;MENUISERIE_55;Fourniture porte fenêtre bois 1 vantail;U;0;106,47;0;0;41,62;148,09;25;1;02/05/2024
+MENUISERIE;MENUISERIE_56;Fourniture porte fenêtre pvc 1 vantail;U;0;311,32;0;0;0;311,32;30;2;02/05/2024
+MENUISERIE;MENUISERIE_57;Fourniture porte fenêtre alu 1 vantail;U;0;311,32;0;0;0;311,32;30;2;02/05/2024
+MENUISERIE;MENUISERIE_58;Fourniture porte fenêtre bois 2 vantaux 215x120;U;0;159,7;0;0;62,44;222,14;25;1;02/05/2024
+MENUISERIE;MENUISERIE_59;Fourniture porte fenêtre pvc 2 vantaux 215x120;U;0;466,98;0;0;0;466,98;30;2;02/05/2024
+MENUISERIE;MENUISERIE_60;Fourniture porte fenêtre alu 2 vantaux 215x120;U;0;466,98;0;0;0;466,98;30;2;02/05/2024
+MENUISERIE;MENUISERIE_61;Fourniture baie coulissante bois 215x240 pose en rénovation;U;0;319,4;0;0;124,87;444,28;25;1;02/05/2024
+MENUISERIE;MENUISERIE_62;Fourniture baie coulissante PVC 215x240 pose en rénovation;U;0;583,08;0;0;20,38;603,46;30;1;02/05/2024
+MENUISERIE;MENUISERIE_63;Fourniture baie coulissante Alu 215x240 pose en rénovation;U;0;815,28;0;0;45,98;861,26;30;1;02/05/2024
+MENUISERIE;MENUISERIE_64;Fourniture de volet roulant manuel pvc/alu pour fenêtre 120cm;U;0;320,88;0;0;1,8;322,68;30;2;02/05/2024
+MENUISERIE;MENUISERIE_65;Fourniture de volet roulant électrique pvc/alu pour fenêtre 120cm;U;0;334,53;0;71;2,01;407,54;15;1;02/05/2024
+MENUISERIE;MENUISERIE_66;Fourniture de volet roulant manuel pvc/alu pour fenêtre 240cm;U;0;985,56;0;0;5,52;991,08;30;2;02/05/2024
+MENUISERIE;MENUISERIE_67;Fourniture de volet roulant électrique pvc/alu pour fenêtre 240cm;U;0;999,21;0;71;5,73;1075,94;15;2;02/05/2024
+MENUISERIE;MENUISERIE_68;Réparation forfaitaire de volet roulant hors tablier;FT;0;0,1;23,6;0;0;23,7;10;2;02/05/2024
+MENUISERIE;MENUISERIE_69;Remplacement traverse ou lame sur volet bois;FT;0;0,2;43,6;0;0;43,8;10;2;02/05/2024
+MENUISERIE;MENUISERIE_70;Fourniture volets bois 2 battants pour fenêtre 120x100;U;0;44,52;0;0;0;44,52;25;2;02/05/2024
+MENUISERIE;MENUISERIE_71;Fourniture volets bois 2 battants pour porte fenêtre (jusqu'à 160 cm de largeur);U;0;127,62;0;0;0;127,62;25;2;02/05/2024
+MENUISERIE;MENUISERIE_72;Fourniture volets PVC 2 battants pour fenêtre 120x100;U;0;157,2;0;0;0;157,2;30;2;02/05/2024
+MENUISERIE;MENUISERIE_73;Fourniture volets PVC 2 battants pour porte fenêtre (jusqu'à 160 cm de largeur);U;0;450,64;0;0;0;450,64;30;2;02/05/2024
+MENUISERIE;MENUISERIE_74;Fourniture volets Alu 2 battants pour fenêtre 120x100;U;0;732;0;0;0;732;25;2;02/05/2024
+MENUISERIE;MENUISERIE_75;Fourniture volets Alu 2 battants pour porte fenêtre (jusqu'à 160 cm de largeur);U;0;2098,4;0;0;0;2098,4;25;2;02/05/2024
+MENUISERIE;MENUISERIE_76;Fourniture d'un moteur électrique pour volet roulant (hauteur max 3m, largeur max 240);U;0;13,65;0;71;0,21;84,86;15;1;02/05/2024
+MENUISERIE;MENUISERIE_77;Fenêtre de toit à projection ou rotation 55x78 cm (type Velux);U;0;58,91;0;0;0;58,91;30;3;02/05/2024
+MENUISERIE;MENUISERIE_78;Fenêtre de toit à projection ou rotation 98x78 (type Velux);U;0;104,12;0;0;0;104,12;30;3;02/05/2024
+MENUISERIE;MENUISERIE_79;Fenêtre de toit à projection ou rotation 78x118 cm (type Velux);U;0;126,04;0;0;0;126,04;30;3;02/05/2024
+MENUISERIE;MENUISERIE_80;Fourniture porte de garage à l'identique;U;0;681,6;64,8;0;25,68;772,08;30;2;02/05/2024
+MACON;MACON_1;Dépose et enlèvement en décharge de la cloture grillagée;ML;11,1;0;0;0;0;11,1;50;1;02/05/2024
+MACON;MACON_2;Dépose et enlèvement en décharge de la cloture en béton préfabriquée;ML;2,2;0;0;0;0;2,2;50;1;02/05/2024
+MACON;MACON_3;Dépose et enlèvement en décharge de mur en agglos creux;ML;5,4;0;0;0;0;5,4;50;1;02/05/2024
+MACON;MACON_4;Dépose et enlèvement en décharge de mur en agglos creux enduit monocouche 2 faces;ML;5,41;0;0;0;0;5,41;50;1;02/05/2024
+MACON;MACON_5;Dépose et enlèvement en décharge de mur en agglos creux enduit monocouche 2 faces et couronnement préfabriqué;ML;14,19;0;0;0;0;14,19;50;1;02/05/2024
+MACON;MACON_6;Clôture grillagée simple torsion plastifiée sur poteau Fer Té en terre sur dé de béton enterré;ML;2,02;31,4;10,2;0;2,02;45,64;50;1;02/05/2024
+MACON;MACON_7;Clôture grillagée simple torsion galvanisée sur poteau Fer Té en terre sur dé de béton enterré;ML;2,02;31,4;10,2;0;2,02;45,64;50;1;02/05/2024
+MACON;MACON_8;Clôture grillagée défensive rigide galvanisée poteaux sur dé de béton enterré;ML;2,02;31,4;10,2;0;2,02;45,64;50;1;02/05/2024
+MACON;MACON_9;Clôture béton (poteaux et dalles béton préfabriqués);ML;11,1;19;50;-6,94;11,1;84,26;100;1;02/05/2024
+MACON;MACON_10;Dépose et enlèvement en décharge de la cloture en aluminium;ML;15,2;0;0;0;0;15,2;50;1;02/05/2024
+MACON;MACON_11;Clôture aluminium avec poteau aluminium sur dé de béton enterré;ML;0;511;0;0;0;511;50;1;02/05/2024
+MACON;MACON_12;Dépose et enlèvement en décharge du claustra bois;ML;23,9;0;0;0;0;23,9;50;1;02/05/2024
+MACON;MACON_13;Clôture de type claustra bois en panneaux;ML;23,9;-0,28;28,3;0;23,9;75,82;50;1;02/05/2024
+MACON;MACON_14;Dépose et enlèvement en décharge de la cloture en PVC;ML;12,3;0;0;0;0;12,3;30;1;02/05/2024
+MACON;MACON_15;Clôture PVC brise-vent avec poteau aluminium sur dé de béton enterré;ML;12,3;241;55,2;0;12,3;320,8;30;1;02/05/2024
+MACON;MACON_16;Muret en agglomérés creux de ciment de 20 cm hors fondations ;ML;5,4;44,16;41,64;-5,58;5,4;91,02;50;1;02/05/2024
+MACON;MACON_17;Muret en agglomérés creux de ciment de 20 cm enduit monocouche 12mm 2 faces hors fondations ;ML;5,42;54,62;41,64;-5,58;5,42;101,52;50;2;02/05/2024
+MACON;MACON_18;Muret en agglomérés creux de ciment de 20 cm enduit monocouche 12mm 2 faces avec couronnement préfabriqué hors fondations ;ML;14,19;74,72;54,84;-5,58;14,19;152,36;50;2;02/05/2024
+MACON;MACON_19;Démolition Element porteur vertical en acier;Kg;0,07;0;0;0;0;0,07;100;1;02/05/2024
+MACON;MACON_20;Démolition maçonnerie toutes natures de matériaux (sauf béton armé) y compris fondations;M3;17,2;0;0;0;0;17,2;100;2;02/05/2024
+MACON;MACON_21;Démolition béton armé y compris fondations;M3;194;0;0;0;0;194;100;1;02/05/2024
+MACON;MACON_22;Démolition d'un seul pilier béton, chargement dans camion et enlèvement en décharge publique;U;0,61;0;0;0;0;0,61;100;1;02/05/2024
+MACON;MACON_23;Coulage de béton armé pour fondation en rigole ou isolée;M3;194;1004;144;0;194;1536;100;1;02/05/2024
+MACON;MACON_24;Parpaings ou brique TC ou cellulaire creux hourdés au mortier ép. 20 cm;M2;17,2;4,04;87,6;0;17,2;126,04;100;1;02/05/2024
+MACON;MACON_25;Briques pleines ordinaires avec joint de 1cm, hourdées au mortier : Paroi de 10,5cm ép;M2;1,9;1,74;3;0;1,9;8,54;100;1;02/05/2024
+MACON;MACON_26;Briques creuses dite plâtrière en pose traditionnelles ép. 5cm;M2;1,9;1,74;3;0;1,9;8,54;100;1;02/05/2024
+MACON;MACON_27;Reprise d'enduit extérieur jusqu'à 20 M2 ;M2;0,01;8,72;0;0;0,01;8,75;50;1;02/05/2024
+MACON;MACON_28;Piquage d'enduit extérieur;M2;0,01;0;3,31;0;0;3,32;50;2;02/05/2024
+MACON;MACON_29;Reprise d'enduit projeté au-delà de 20 M2;M2;0;8,72;0;0;0,01;8,73;50;1;02/05/2024
+MACON;MACON_30;Sur façade rejointoiement sur maçonnerie ancienne y compris dégarnissage préalable jusqu'à 20M2;M2;0,01;1,07;3,31;0;0,01;4,41;50;2;02/05/2024
+MACON;MACON_31;Reprise d'enduit à la chaux en façade surface < 20m²;M2;15,9;10,7;9,11;0;15,9;51,61;25;1;02/05/2024
+MACON;MACON_32;Reprise d'enduit à la chaux en façade surface > 20m²;M2;15,9;10,7;9,11;0;15,9;51,61;25;1;02/05/2024
+ISOLANT;ISOLANT_1;Panneau semi-rigide en laine de verre  avec pare-vapeur kraft - Epaisseur  60 mm;M2;0;32,2;4,78;0;15;51,98;50;1;02/05/2024
+ISOLANT;ISOLANT_2;Panneau semi-rigide en laine de verre  avec pare-vapeur kraft - Epaisseur  75 mm;M2;0;32,2;4,78;0;15;51,98;50;1;02/05/2024
+ISOLANT;ISOLANT_3;Panneau semi-rigide en laine de verre  avec pare-vapeur kraft - Epaisseur 100 mm;M2;0;32,2;4,78;0;15;51,98;50;1;02/05/2024
+ISOLANT;ISOLANT_4;Polystyrène expansé sans pare-vapeur épaisseur 10 +  40;M2;0;13,3;1,42;0;0,03;14,75;50;1;02/05/2024
+ISOLANT;ISOLANT_5;Polystyrène expansé sans pare-vapeur épaisseur 10 +  70;M2;0;13,3;1,42;0;0,03;14,75;50;1;02/05/2024
+ISOLANT;ISOLANT_6;Polystyrène expansé sans pare-vapeur épaisseur 10 +  90;M2;0;13,3;1,42;0;0,03;14,75;50;1;02/05/2024
+ISOLANT;ISOLANT_7;Laine minérale sans pare-vapeur  épaisseur 10 +  50;M2;0;8,13;1,58;0;0,29;10;50;1;02/05/2024
+ISOLANT;ISOLANT_8;Laine minérale sans pare-vapeur épaisseur 10 +  70;M2;0;8,13;1,58;0;0,29;10;50;1;02/05/2024
+ISOLANT;ISOLANT_9;Laine minérale sans pare-vapeur épaisseur 10 + 100;M2;0;8,13;1,58;0;0,29;10;50;1;02/05/2024
+ISOLANT;ISOLANT_10;Majoration pour pare-vapeur sur isolant;M2;0;3,83;0,44;0;0,18;4,45;50;1;02/05/2024
+ISOLANT;ISOLANT_11;Laine de verre standard;M2;0;2,87;0,57;0;0,32;3,75;50;1;02/05/2024
+ISOLANT;ISOLANT_12;Laine de verre avec pare-vapeur épaisseur 90 mm;M2;0;6,7;1,01;0;0,5;8,21;50;2;02/05/2024
+ISOLANT;ISOLANT_13;Laine de verre avec pare-vapeur épaisseur 180 mm;M2;0;6,7;1,01;0;0,5;8,21;50;2;02/05/2024
+COUVERT;COUVERT_1;Pose de voliges;M2;0;0;5,16;0;19,9;25,06;50;1;02/05/2024
+COUVERT;COUVERT_2;Dépose ardoise incluse dans les tarifs;M2;0,61;0;0;0;0;0,61;100;1;02/05/2024
+COUVERT;COUVERT_3;Ardoise en recherche 35 à 48u/m2 (y compris fournitures);U;0;7,29;8,5;0;0,61;16,4;100;1;02/05/2024
+COUVERT;COUVERT_4;Remaniage toiture ardoise petit modèle 10% de fourniture comprise;M2;0,06;0,73;3,4;0;0,06;4,25;N/A;3;02/05/2024
+COUVERT;COUVERT_5;Remaniage toiture grand modèle 10% de fourniture comprise;M2;0,03;0,42;1,94;0;0,03;2,43;N/A;3;02/05/2024
+COUVERT;COUVERT_6;Remplacement d'ardoises naturelles petit modèle, y compris liteaux;M2;0,61;7,29;8,5;0;0,61;17;100;1;02/05/2024
+COUVERT;COUVERT_7;Remplacement d'ardoises naturelles grand modèle, y compris liteaux;M2;0,35;4,17;4,86;0;0,35;9,72;100;1;02/05/2024
+COUVERT;COUVERT_8;Fourniture et pose d'ardoises en fibre-ciment toutes sujétions comprises petit modèle ( 40 x 24 ) pose à pureau entier;M2;0;26;4,1;0;1,04;31,14;60;1;02/05/2024
+COUVERT;COUVERT_9;Fourniture et pose d'ardoises en fibre-ciment toutes sujétions comprises Grand modèle ( 40 x 40 );M2;0;26;4,1;0;1,04;31,14;60;1;02/05/2024
+COUVERT;COUVERT_10;Pose et fourniture FAITAGES, ARETIERS, NOUES ET RIVES, toutes sujétions comprises;ML;0;9,31;3,47;0;0,62;13,4;30;1;02/05/2024
+COUVERT;COUVERT_11;Remplacement faîtage en ardoises naturelles, toutes sujétions comprises;ML;0,69;0,83;0,97;0;0,69;3,19;60;1;02/05/2024
+COUVERT;COUVERT_12;Fourniture et pose de faîtage angulaire  simple à ourlet;ML;0;0,83;0,97;0;0,69;2,5;60;1;02/05/2024
+COUVERT;COUVERT_13;Remplacement rive scellée en ardoises naturelles petit ou grand modèle, toutes sujétions comprises;ML;0,19;17,8;3,25;0;0,19;21,43;20;1;02/05/2024
+COUVERT;COUVERT_14;Fourniture et pose de bande de rive à ourlet 16 ou 20cm;ML;0;6,27;2,69;0;0,02;8,98;20;1;02/05/2024
+COUVERT;COUVERT_15;Fourniture et pose de noue ouverte en zinc ;ML;0;6,27;2,69;0;0,02;8,98;20;1;02/05/2024
+COUVERT;COUVERT_16;Dépose tuiles mécaniques incluse dans les tarifs;M2;0,78;0;0;0;0;0,78;100;1;02/05/2024
+COUVERT;COUVERT_17;Tuiles mécaniques en recherche (y compris fourniture):;U;0;22,4;0;0;0;22,4;100;1;02/05/2024
+COUVERT;COUVERT_18;Remaniage toiture tuiles mécaniques grand moule 10% de fourniture comprise;M2;0,33;1,23;0,71;0;0,33;2,6;N/A;3;02/05/2024
+COUVERT;COUVERT_19;Remaniage toiture tuiles mécaniques petit moule 10% de fourniture comprise;M2;0,23;1,21;0,93;0;0,23;2,6;N/A;3;02/05/2024
+COUVERT;COUVERT_20;Remplacement tuiles mécaniques grand moule, y compris liteaux;M2;3,32;12,29;1,75;0;3,32;20,68;60;1;02/05/2024
+COUVERT;COUVERT_21;Remplacement tuiles mécaniques petit moule, y compris liteaux;M2;2,32;12,1;1,46;0;2,32;18,2;60;1;02/05/2024
+COUVERT;COUVERT_22;Remplacement faîtage ou arêtier en tuile terre cuite (mécaniques, plates ou canal)  toutes sujétions comprises;ML;0,46;2,42;0,29;0;0,46;3,64;60;1;02/05/2024
+COUVERT;COUVERT_23;Arêtier en terre cuite rouge à emboitement Grand Moule;ML;0,23;1,21;0,15;0;0,23;1,82;60;1;02/05/2024
+COUVERT;COUVERT_24;Arêtier en terre cuite rouge à emboitement Petit moule;ML;0,23;1,21;0,15;0;0,23;1,82;60;1;02/05/2024
+COUVERT;COUVERT_25;Remplacement rive en tuile mécaniques ou plates toutes sujétions comprises;ML;0,21;6,27;2,69;0;0,21;9,38;20;1;02/05/2024
+COUVERT;COUVERT_26;Rive en terre cuite rouge vissée avec demi tuile;ML;0,23;1,21;0,15;0;0,23;1,82;60;1;02/05/2024
+COUVERT;COUVERT_27;Noue en zinc ;ML;2,09;6,27;2,69;0;2,09;13,14;20;1;02/05/2024
+COUVERT;COUVERT_28;Dépose tuiles plates incluse dans les tarifs;M2;1,04;0;0;0;0;1,04;60;1;02/05/2024
+COUVERT;COUVERT_29;Tuiles plates tout modèle en recherche;U;0;26;0;0;0;26;60;1;02/05/2024
+COUVERT;COUVERT_30;Remaniage toiture tuiles plates 10% de fourniture comprise;M2;0,1;2,6;1,64;0;0,1;4,45;N/A;3;02/05/2024
+COUVERT;COUVERT_31;Remplacement tuiles plates petit modèle, y compris liteaux;M2;1,04;26;4,1;0;1,04;32,18;60;1;02/05/2024
+COUVERT;COUVERT_32;Remplacement tuiles plates grand modèle, y compris liteaux;M2;1,04;26;4,1;0;1,04;32,18;60;1;02/05/2024
+COUVERT;COUVERT_33;Arêtier en corniers petit modèle rouge vissées;ML;0,1;2,6;0,41;0;0,1;3,22;60;1;02/05/2024
+COUVERT;COUVERT_34;Arêtier fermé en tuiles plates rouge;ML;0,1;2,6;0,41;0;0,1;3,22;60;1;02/05/2024
+COUVERT;COUVERT_35;Remplacement rive en tuile mécaniques ou plates toutes sujétions comprises;ML;0,21;6,27;2,69;0;0,21;9,38;20;1;02/05/2024
+COUVERT;COUVERT_36;Rive en tuiles terre cuite rouge;ML;0,23;1,21;0,15;0;0,23;1,82;60;3;02/05/2024
+COUVERT;COUVERT_37;Noue en zinc sur une couverture en tuiles plates;ML;2,09;6,27;2,69;0;2,09;13,14;20;1;02/05/2024
+COUVERT;COUVERT_38;Noue fermée avec nocquets en terre cuite;ML;2,32;7,48;2,84;0;2,32;14,96;20;2;02/05/2024
+COUVERT;COUVERT_39;Dépose couverture tuiles canal à sec;M2;0,48;0;0;0;0;0,48;100;1;02/05/2024
+COUVERT;COUVERT_40;Dépose tuiles canal incluse dans les tarifs;M2;0,48;0;0;0;0;0,48;100;1;02/05/2024
+COUVERT;COUVERT_41;Remaniage toiture tuile canal 10% de fourniture comprise;M2;0,05;2,64;0,73;0;0,05;3,47;N/A;3;02/05/2024
+COUVERT;COUVERT_42;Remplacement tuiles canal, y compris liteaux;M2;0,48;26,4;1,83;0;0,48;29,2;100;1;02/05/2024
+COUVERT;COUVERT_43;Pose et fourniture FAITAGES, ARETIERS, NOUES ET RIVES, toutes sujétions comprises;ML;0,21;6,27;2,69;0;0,21;9,38;20;1;02/05/2024
+COUVERT;COUVERT_44;Arêtier en terre cuite  rouge;ML;0,1;2,6;0,41;0;0,1;3,22;60;1;02/05/2024
+COUVERT;COUVERT_45;Remplacement rive en tuiles toutes sujétions comprises;ML;0,21;6,27;2,69;0;0,21;9,38;20;1;02/05/2024
+COUVERT;COUVERT_46;Noue en zinc ;ML;0;6,27;0;0;0;6,27;20;1;02/05/2024
+COUVERT;COUVERT_47;Dépose plaques ondulées incluse dans les tarifs;M2;1,18;0;0;0;0;1,18;20;1;02/05/2024
+COUVERT;COUVERT_48;Remplacement plaques ondulées (sous toiture ou apparente);M2;1,18;6,58;0,86;0;1,18;9,8;20;1;02/05/2024
+COUVERT;COUVERT_49;Fourniture et pose plaques ondulées plaques de 6 ondes en teinte colorée;M2;0;6,58;0,86;0;1,18;8,62;20;1;02/05/2024
+COUVERT;COUVERT_50;Remplacement rive toutes sujétions comprises;ML;0,21;6,27;2,69;0;0,21;9,38;20;1;02/05/2024
+COUVERT;COUVERT_51;Fourniture et pose faitière angulaire en teinte colorée;ML;0,04;1,25;0,54;0;0,04;1,88;20;1;02/05/2024
+COUVERT;COUVERT_52;Dépose couverture en bardeaux bitumés à l'américaine;M2;6,55;0;0;0;0;6,55;50;1;02/05/2024
+COUVERT;COUVERT_53;Dépose couverture en bardeaux bitumés à la française;M2;1,35;0;0;0;0;1,35;50;1;02/05/2024
+COUVERT;COUVERT_54;Fourniture et mise en œuvre de bardeaux bitumés toutes sujétions de coupe et fixations à la française;M2;0;11,3;3,17;0;1,35;15,82;;1;02/05/2024
+COUVERT;COUVERT_55;Fourniture et mise en œuvre de bardeaux bitumés coupe et fixations à l'américaine, toutes sujétions comprises;M2;0;17,3;5,17;0;6,55;29,02;50;1;02/05/2024
+COUVERT;COUVERT_56;Egout de rive ;ML;0;9,31;0;0;0;9,31;50;1;02/05/2024
+COUVERT;COUVERT_57;Fourniture et pose de faitage ou arêtier en éléments pliés, toutes sujétions comprises;ML;0;1,25;0,54;0;0,04;1,83;20;1;02/05/2024
+COUVERT;COUVERT_58;Fourniture et pose de rives en éléments pliés, toutes sujétions comprises;ML;0;9,31;3,47;0;0,62;13,4;50;1;02/05/2024
+COUVERT;COUVERT_59;Noues déversée;ML;0;6,27;0;0;0;6,27;20;1;02/05/2024
+COUVERT;COUVERT_60;Dépose bac acier incluse dans les tarifs;M2;0,18;0;0;0;0;0,18;50;1;02/05/2024
+COUVERT;COUVERT_61;Remplacement de bac acier galvanisé simple peau, toutes sujétions de pose incluses ;M2;0,18;39,2;2,2;0;0,18;41,77;50;1;02/05/2024
+COUVERT;COUVERT_62;Fourniture et pose de faitière double galvanisée pour couverture bac acier toutes sujétions comprises;ML;0;1,25;0,54;0;0,04;1,83;20;1;02/05/2024
+COUVERT;COUVERT_63;Remplacement de faitière galvanisée pour couverture bac acier toutes sujétions comprises;ML;0,62;9,31;3,47;0;0,62;14,02;50;1;02/05/2024
+COUVERT;COUVERT_64;Remplacement de rive galvanisée pour couverture bac acier toutes sujétions comprises;ML;0,21;6,27;2,69;0;0,21;9,38;20;1;02/05/2024
+COUVERT;COUVERT_65;Dépose de tuyaux de descente (zinc et PVC) ;ML;0,15;0;0;0;0;0,15;50;1;02/05/2024
+COUVERT;COUVERT_66;Dépose de gouttières avec bande d'égout ;ML;0,13;0;0;0;0;0,13;20;1;02/05/2024
+COUVERT;COUVERT_67;Dépose de cheneaux encaissés;ML;8,77;20,1;13,2;0;8,77;50,84;50;2;02/05/2024
+COUVERT;COUVERT_68;Dépose de gouttières Havraises, Rouennaises, Nantaises;ML;0,13;0;0;0;0;0,13;20;1;02/05/2024
+COUVERT;COUVERT_69;Remplacement de tuyau de descente EP en Zinc ou PVC Y/C raccords, talons, naissances;ML;0,13;1,72;0,83;0;0,13;2,81;20;1;02/05/2024
+COUVERT;COUVERT_70;Fourniture et pose de gouttière en zinc de 0,33 ;ML;0;1,72;0,83;0;0,13;2,68;20;1;02/05/2024
+COUVERT;COUVERT_71;Remplacement de tuyau de descente EP en aluminium Y/C raccords, talons, naissances;ML;0,15;16,1;1,9;0;0,15;18,29;50;1;02/05/2024
+COUVERT;COUVERT_72;Remplacement de tuyau de descente EP en Zinc ou PVC Y/C raccords, talons, naissances;ML;0,11;6,04;2,7;0;0,11;8,96;75;1;02/05/2024
+COUVERT;COUVERT_73;Fourniture et pose de gouttière PVC de 0,33;ML;0;1,72;0,83;0;0,13;2,68;20;1;02/05/2024
+COUVERT;COUVERT_74;Retour d'angle PVC;U;0,03;0,43;0,21;0;0,03;0,7;20;1;02/05/2024
+COUVERT;COUVERT_75;Naissance de 0,25 PVC;U;0;34,9;0;0;0;34,9;50;1;02/05/2024
+COUVERT;COUVERT_76;Fourniture et pose de tuyau de descente en Zinc naturel;ML;0;18,12;2,7;0;0,32;21,14;75;1;02/05/2024
+COUVERT;COUVERT_77;Fourniture et pose de couronnement de cheminée et aspirateur statique;U;0;216;92,5;0;7,11;315,61;20;1;02/05/2024
+COUVERT;COUVERT_78;Fourniture et pose de conduit (20x20);ML;0;55;4,33;0;1,31;60,64;50;1;02/05/2024
+COUVERT;COUVERT_79;Fourniture et pose d'abergement de souche;U;0;6,27;2,69;0;2,09;11,05;20;1;02/05/2024
+COUVERT;COUVERT_80;Bande porte solin et solin au mortier;ML;0;17,8;0;0;0;17,8;20;1;02/05/2024
+COUVERT;COUVERT_81;Mise en œuvre d'un échafaudage de pied hauteur 3 m pendant les travaux;ML;0;0;0,4;0;0;0,4;N/A;2;02/05/2024
+COUVERT;COUVERT_82;Mise en œuvre d'un échafaudage de pied hauteur 6 m pendant les travaux;ML;0;0;1,2;0;0;1,2;N/A;2;02/05/2024
+COUVERT;COUVERT_83;Mise en œuvre d'un échafaudage de pied hauteur 9 m pendant les travaux;ML;0;0;1,8;0;0;1,8;N/A;2;02/05/2024
+COUVERT;COUVERT_84;Forfait minimum d'intervention couverture hors bâchage;FT;0;0;0;0;0;103,4;N/A;2;02/05/2024
+AUTRES;AUTRES_1;Peinture des plinthes ou canalisation (si endommagée ou remplacée);ML;0,47;1,55;0,11;0,49;0,47;3,09;10;1;02/05/2024
+AUTRES;AUTRES_2;Peinture porte par face, huisserie et boiserie (si endommagée ou remplacée);U;0,91;3,01;0,22;0,96;0,91;6;10;2;02/05/2024
+AUTRES;AUTRES_3;Peinture radiateur fonte (si endommagé ou remplacé);U;0,91;3,01;0,22;0,96;0,91;6;10;3;02/05/2024
+AUTRES;AUTRES_4;Fourniture de sous-couche;M2;0;1,51;0;0;0;1,51;50;1;02/05/2024
+AUTRES;AUTRES_5;Barre de seuil : dépose, fourniture et pose;U;0,28;2,49;0,2;0;0,28;3,24;30;1;02/05/2024
+AUTRES;AUTRES_6;Remplacement barre de seuil;U;0,28;2,49;0,2;0;0,28;3,24;30;1;02/05/2024
+AUTRES;AUTRES_7;Plus value hydrofuges pour plaques de plâtre type BA13;M2;0,33;0,2;0;0;0,33;0,86;50;2;02/05/2024
+AUTRES;AUTRES_8;Tablier de baignoire hors carrelage, y compris trappe de visite;U;0,31;1,88;6,27;0;0,31;8,77;50;2;02/05/2024
+AUTRES;AUTRES_9;Remplacement laine de verre en kraft par 90 à 120 mm pour isolation des combles;M2;0,22;20,3;6,97;0;0,22;27,71;50;1;02/05/2024
+AUTRES;AUTRES_10;Remplacement laine de verre 220 à 300 mm pour isolation des combles;M3;0,4;24,13;7,41;0;0,4;32,34;50;3;02/05/2024
+AUTRES;AUTRES_11;Remplacement isolant mince multi réflecteur ép. 10 à 15 mm pour isolation des combles;M3;0,18;3,83;0,44;0;0,18;4,63;50;1;02/05/2024
+AUTRES;AUTRES_12;Remplacement isolant mince multi réflecteur ép. 20 à 25 mm pour isolation des combles;M2;0,18;3,83;0,44;0;0,18;4,63;50;1;02/05/2024
+AUTRES;AUTRES_13;Forfait recherche de panne;FT;0;0,1;22,4;0;0;22,5;N/A;2;02/05/2024
+AUTRES;AUTRES_14;Remplacement motorisation volet roulant;U;7,96;0;3,34;126;7,96;145,26;20;1;02/05/2024
+AUTRES;AUTRES_15;Remplacement Tableau général jusqu'à 4 barrettes de disjoncteur ou jusqu'à 50 modules simples y compris câble, appareillage et raccordement;U;28,8;28,92;28,4;0;28,8;114,92;20;1;02/05/2024
+AUTRES;AUTRES_16;Remplacement Tableau général supérieur à 4 barrettes de disjoncteur ou plus de 50 modules simples y compris câble, appareillage et raccordement;U;57,6;57,84;32;0;57,6;205,04;20;2;02/05/2024
+AUTRES;AUTRES_17;Remplacement Tableau général encastré y compris câble, appareillage et raccordement;U;28,8;28,92;30,8;0;28,8;117,32;20;2;02/05/2024
+AUTRES;AUTRES_18;Remplacement alimentation sèche serviette / cumulus / chaudière y compris câble et raccordement;U;3,4;41,85;29,55;0;3,4;78,2;20;2;02/05/2024
+AUTRES;AUTRES_19;Remplacement alimentation VMC y compris câble et raccordement;U;6,8;83,7;36,7;0;6,8;134;20;1;02/05/2024
+AUTRES;AUTRES_20;Plus value pour l'encastrement réseaux compris saignées, fourreaux et rebouchage;FT;0,36;0,94;2,4;0;0,36;4,06;20;1;02/05/2024
+AUTRES;AUTRES_21;Mise à disposition d’un échafaudage en cas de hauteur sous plafond comprise entre 3 et 5 m;FT;0;0;1,2;0;0;1,2;N/A;2;02/05/2024
+AUTRES;AUTRES_22;Mise à disposition d’un échafaudage en cas de hauteur sous plafond supérieure à 5 m;FT;0;0;0,72;0;0;0,72;N/A;2;02/05/2024
+AUTRES;AUTRES_23;Fourniture et pose de tuyauterie cuivre 20/22, pose en apparent y compris façons, coude, raccords et fixation.;ML;0;2,4;0,61;0;0,29;3,31;100;1;02/05/2024
+AUTRES;AUTRES_24;Fourniture et pose de tuyauterie cuivre 16/18, pose en apparent y compris façons, coude, raccords et fixation.;ML;0;1,08;0,28;0;0,13;1,49;100;1;02/05/2024
+AUTRES;AUTRES_25;Fourniture et pose de tuyauterie cuivre 12/14, pose en apparent y compris façons, coude, raccords et fixation.;ML;0;1,08;0,28;0;0,13;1,49;100;1;02/05/2024
+AUTRES;AUTRES_26;Remplacement points lumineux (y compris câblage & fourniture);U;8,07;635;119;0;8,07;770,14;50;1;02/05/2024
+AUTRES;AUTRES_27;Remplacement appareillage (prise, interrupteur), câblage conservé;U;0,02;3,37;0,13;5,12;0,02;8,66;10;1;02/05/2024
+AUTRES;AUTRES_28;Décontamination / nettoyage des lavabos, baignoire, évier, WC, receveur douche, ... (conservation ou éponge chimique);U;0;0,2;1,2;0;0;1,4;N/A;2;02/05/2024
+AUTRES;AUTRES_29;Arrachage moquette et tapisserie (si justifié);M2;2,49;0;0;0;0;2,49;10;1;02/05/2024
+AUTRES;AUTRES_30;Lessivage extérieurs murs et sols haute pression EC/EF avec ou sans détergent;M2;0;0;0,1;0;0;0,1;N/A;3;02/05/2024
+AUTRES;AUTRES_31;Nettoyage de sol de cave en béton brut;M2;0;0;0,1;0;0;0,1;N/A;3;02/05/2024
+AUTRES;AUTRES_32;Bâchage en travaux d'urgence sur toiture;M2;0;7,8;0,4;0;0,78;8,98;N/A;2;02/05/2024
+AUTRES;AUTRES_33;Remplacement noue en zinc toutes sujétions comprises;ML;0,62;9,31;3,47;0;0,62;14,01;30;3;02/05/2024
+AUTRES;AUTRES_34;Remplacement écran sous toiture;M2;0,06;12,5;2,51;0;0,06;15,13;50;1;02/05/2024
+AUTRES;AUTRES_35;Forfait minimum bâchage uniquement;FT;0;62,4;3,18;0;6,24;71,82;N/A;2;02/05/2024
+AUTRES;AUTRES_36;Fourniture et pose de rive;ML;0;9,31;3,47;0;0,62;13,4;50;1;02/05/2024
+AUTRES;AUTRES_37;Mise en place de chevêtre;U;1;9;12,7;0;1;23,7;50;3;02/05/2024
+AUTRES;AUTRES_38;Travaux de réparations réseau d'alimentation en cuivre;ML;0,1;0,1;0,61;0;0,1;0,91;100;1;02/05/2024
+AUTRES;AUTRES_39;Travaux de réparations réseau d'alimentation en PER;ML;0,1;0,1;0,8;0;0,1;1,1;50;1;02/05/2024
+AUTRES;AUTRES_40;Dépose & repose de sanitaires non scellés (lavabo, WC, …) y compris accessoires de pose & protection;FT;30,8;0;59,6;0;0;90,4;20;1;02/05/2024
+AUTRES;AUTRES_41;Dépose & repose de radiateurs à circulation d'eau y compris accessoires de pose & protection;FT;4,93;0;12;0;0;16,93;17;1;02/05/2024
+AUTRES;AUTRES_42;Dépose & repose de sanitaires scellés (douche, baignoire, …) y compris accessoires de pose & protection;FT;21,5;0;32,3;0;0;53,8;20;1;02/05/2024
+AUTRES;AUTRES_43;Dépose & repose chauffe eau / cumulus électrique y compris accessoires de pose & protection;FT;140;0;75,2;0;0;215,2;25;1;02/05/2024
+AUTRES;AUTRES_44;Aspiration des eaux résiduelles en surface;M2;0;0;0,4;0;0;0,4;N/A;2;02/05/2024
+AUTRES;AUTRES_45;Assèchement sol (chape, carrelage, moquette, revêtements plastiques);M2;0;0;2;2,52;0;4,52;N/A;2;02/05/2024
+AUTRES;AUTRES_46;Assèchement par surpression parquet traditionnel;M2;0;0;2;2,52;0;4,52;N/A;3;02/05/2024
+AUTRES;AUTRES_47;Assèchement par surpression chape flottante sur isolation thermique;M2;0;0;2;2,52;0;4,52;N/A;3;02/05/2024
+AUTRES;AUTRES_48;Remplacement clôture préfabriquée en béton armé lisse hauteur < de 2 m, poteaux de 12*12 cm, dalle pleine en piètement;ML;23,35;37,3;9,54;-0,39;23,35;93,15;100;1;02/05/2024
+AUTRES;AUTRES_49;Remplacement clôture préfabriquée grillagée hauteur 1,50 m sur poteau en béton armé. (grillage simple torsion, galvanisé plastifié, jambes de forces et scellement béton compris) jusqu'au 20 ML;ML;2,02;31,4;10,2;0;2,02;45,64;25;1;02/05/2024
+AUTRES;AUTRES_50;Remplacement clôture préfabriquée grillagée hauteur 2,00 m sur poteau en béton armé. (grillage simple torsion, galvanisé plastifié, entraxe 2,50m, jambes de forces et scellement béton compris) jusqu'à 20 ML;ML;3,03;47,1;15,3;0;3,03;68,46;25;1;02/05/2024
+AUTRES;AUTRES_51;Remplacement clôture préfabriquée grillagée hauteur 1,50 m sur poteau en béton armé. (grillage simple torsion, galvanisé plastifié, soubassement en béton 25cm)  jusqu'au 20 ML;ML;2,13;40,9;14,75;-0,41;2,13;59,51;25;1;02/05/2024
+AUTRES;AUTRES_52;Remplacement clôture préfabriquée grillagée hauteur 2 m sur poteau en béton armé. (grillage simple torsion, galvanisé plastifié, soubassement en béton 25cm)  jusqu'au 20 ML;ML;3,14;56,6;19,85;-0,41;3,14;82,33;25;1;02/05/2024
+AUTRES;AUTRES_53;Remplacement clôture de type claustra bois en panneaux 1,80mx1,80m;ML;43,9;-55,6;35,9;0;43,9;68,1;50;1;02/05/2024
+AUTRES;AUTRES_54;Couronnement pour mur;ML;1,25;2,87;13,2;0;1,25;18,58;50;1;02/05/2024
+AUTRES;AUTRES_55;Débitage et enlèvement d'un arbre au sol 2,00m<H<8,00m ;FT;1143;0;22,8;0;0;1165,8;0;2;02/05/2024
+AUTRES;AUTRES_56;Débitage et enlèvement d'un arbre au sol 8,00m<=H<15,00m ;FT;1839;0;25,2;0;0;1864,2;0;2;02/05/2024
+AUTRES;AUTRES_57;Débitage et enlèvement d'un arbre au sol>15M;FT;2355;0;27,6;0;0;2382,6;0;2;02/05/2024
+AUTRES;AUTRES_58;Fourniture et pose de boisseaux de conduit de fumée tous type de matériaux;ML;0;21,6;5,64;0;2,75;29,99;50;1;02/05/2024
+AUTRES;AUTRES_59;Réfection d'un couronnement de cheminée;FT;1,25;2,87;18;0;1,25;18,58;50;2;02/05/2024
+AUTRES;AUTRES_60;Reprise sur PVC > 7 impacts, trous, éclats sur un ou plusieurs ouvrages, y compris toutes sujétions thermo-reprofilage, dépose et repose éventuelles, nettoyage, ponçages, lustrage;FT;0;2;48;0;0;50;30;3;02/05/2024
+AUTRES;AUTRES_61;Remplacement de tout type de joint d'étanchéité (en caoutchouc, en PVC...) par vantail de fenêtre, porte-fenêtre, porte...;U;0,37;2,84;0,28;0;0,37;3,86;30;1;02/05/2024
+AUTRES;AUTRES_62;Km supplémentaire au delà de 50 km serrurier (avec un maximum de 200 km);KM;0;0;0,22;0;0;0,22;N/A;3;02/05/2024
+AUTRES;AUTRES_63;Plus value pour protection thermique;M2;0,1;0,1;0,1;0;0,1;0,4;20;2;02/05/2024
+AUTRES;AUTRES_64;Petits bois à l'intérieur du vitrage isolant;ML;0,1;0,1;0,1;0;0,1;0,4;50;2;02/05/2024
+AUTRES;AUTRES_65;Forfait location diable élévateur de vitrage, pour manutention de vitrages (de 150 Kg max) avec 2 opérateurs;FT;0,1;1;20,6;0;0,1;21,8;N/A;2;02/05/2024
+AUTRES;AUTRES_66;Achat d'un testeur d'humidité;U;0,1;0,1;0,1;0;0,1;0,4;50;2;02/05/2024
+AUTRES;AUTRES_67;Remplacement doublage en plaques de plâtres type BA13 sur rail y compris ossature métallique (dépose existant, évacuation, fourniture et pose);M2;0,85;17,35;3,76;0,6;0,85;23,41;50;2;02/05/2024
+AUTRES;AUTRES_68;Remplacement motorisation portail standard;U;8,76;187;22,3;0;8,76;226,82;15;1;02/05/2024
+AUTRES;AUTRES_69;Dépose Elément porteur en acier utilisé comme élément de charpente ;kg;0,06;0;0,36;0;0;0,42;N/A;1;02/05/2024
+AUTRES;AUTRES_70;Dépose des éléments de charpente, y compris l'enlèvement et mise en décharge;M3;813;0;52,5;0;0;865,5;N/A;3;02/05/2024
+AUTRES;AUTRES_71;Main d'œuvre pour calage ou redressement des éléments de charpente (panne, panne faitière, ferme, chevron, sablière);H;0;0;1,2;0;0;1,2;N/A;3;02/05/2024
+AUTRES;AUTRES_72;Fourniture et pose de charpente non assemblée en sapin du nord;M3;0;-616;28,4;0;736;148,4;100;1;02/05/2024
+AUTRES;AUTRES_73;Fourniture et pose de charpente assemblée en sapin du nord;M3;0;-350;105;0;813;568;100;1;02/05/2024
+AUTRES;AUTRES_74;Fourniture et pose de charpente non assemblée en chêne;M3;0;-616;28,4;0;736;148,4;100;1;02/05/2024
+AUTRES;AUTRES_75;Fourniture et pose de charpente assemblée en chêne;M3;0;-350;105;0;813;568;100;1;02/05/2024
+AUTRES;AUTRES_76;Fourniture et pose de chevron ou solive;M3;0;-9,86;0,56;0;20;10,7;100;1;02/05/2024
+AUTRES;AUTRES_77;Remplacement arêtier en ardoise naturelle, toutes sujétions comprises;ML;0;9,31;3,47;0;0,62;13,4;30;1;02/05/2024
+AUTRES;AUTRES_78;Remplacement bande de rive à ourlet en zinc, toutes sujétions comprises;ML;0,21;6,27;2,69;0;0,21;9,38;20;1;02/05/2024
+AUTRES;AUTRES_79;Remplacement de gouttière Y/C raccords, talons, naissances;ML;0,13;1,72;0,83;0;0,13;2,81;20;1;02/05/2024
+AUTRES;AUTRES_80;Remplacement naissance de gouttière Zinc ou PVC ;U;2,66;34,9;2,4;0;2,66;42,62;50;1;02/05/2024
+AUTRES;AUTRES_81;Remplacement naissance de gouttière aluminium;ML;2,66;34,9;2,4;0;2,66;42,62;50;1;02/05/2024
+AUTRES;AUTRES_82;Ouverture de porte claquée (1 heure maximum sur site), serrure simple, déplacement compris. Jour sauf week end et jours fériés (de 8h00 à 19h00);FT;0;0;19,2;0;0;19,2;N/A;3;02/05/2024
+AUTRES;AUTRES_83;Ouverture de porte claquée (1 heure maximum sur site), serrure simple, déplacement compris. Nuit (de 19h à 08h), dimanche et jours fériés.;FT;0;0;19,2;0;0;19,2;N/A;3;02/05/2024
+AUTRES;AUTRES_84;Ouverture de porte fermée à clé, serrure simple, déplacement compris. Jour sauf week end et jours fériés (de 8h00 à 19h00);FT;0;0;19,2;0;0;19,2;N/A;3;02/05/2024
+AUTRES;AUTRES_85;Ouverture porte fermée à clé, serrure de sécurité, déplacement compris. Jour sauf week end et jours fériés (de 8h00 à 19h00);FT;0;0;19,2;0;0;19,2;N/A;3;02/05/2024
+AUTRES;AUTRES_86;Ouverture porte fermée à clé, serrure de sécurité, déplacement compris. nuit (de 19h à 08h), dimanche et jours fériés. ;FT;0;0;19,2;0;0;19,2;N/A;3;02/05/2024
+AUTRES;AUTRES_87;Remplacement vitre d'insert Vitro cerame classique (rectangulaire ép. 4mm) y compris joints d'étanchéité et accessoires de pose (cales de compensations, pièces de fixations, ...) y compris traitement des déchets;M2;0,84;12,2;26;0;0,84;39,89;30;2;02/05/2024
+AUTRES;AUTRES_88;Remplacement vitre d'insert Vitro cerame rectangulaire ép. 5mm y compris joints d'étanchéité et accessoires de pose (cales de compensations, pièces de fixations, ...) y compris traitement des déchets;M2;0,84;12,2;26;0;0,84;39,89;30;2;02/05/2024
+AUTRES;AUTRES_89;Remplacement double vitrage isolants préfabriqués une face clair ép. 4 mm (y compris intercalaire ou Warm Edge si existants);M2;0,39;43,4;39,01;0;0,39;83,19;30;3;02/05/2024
+AUTRES;AUTRES_90;Remplacement double  vitrage isolants préfabriqués une face clair ép. 5 à 6 mm  (y compris intercalaire ou Warm Edge si existants);M2;0,54;59,68;39,01;0;0,54;99,76;30;3;02/05/2024
+AUTRES;AUTRES_91;Remplacement double  vitrage isolants préfabriqués une face clair ép. 8 mm  (y compris intercalaire ou Warm Edge si existants);M2;0,74;81,38;39,01;0;0,74;121,85;30;3;02/05/2024
+AUTRES;AUTRES_92;Remplacement double  vitrage isolants préfabriqués une face clair ép. 10 mm  (y compris intercalaire ou Warm Edge si existants);M2;0,93;103,08;39,01;0;0,93;143,95;30;3;02/05/2024
+AUTRES;AUTRES_93;Décontamination / nettoyage des Embellissements Plafond et murs Lessivage (conservation ou éponge chimique);M2;0;0,1;0,1;0;0;0,2;N/A;3;02/05/2024
+AUTRES;AUTRES_94;Décontamination mobiliers Traitement sur site;H;0;0,1;3,7;0;0;3,8;N/A;2;02/05/2024
+AUTRES;AUTRES_95;Décontamination mobiliers Traitement en atelier;H;0;0,1;5,6;0;0;5,7;N/A;2;02/05/2024
+AUTRES;AUTRES_96;Encapsulage sur support fortement touchés (nettoyage + peinture une couche sans préparation des supports);M2;0,06;1,38;0,18;0;0,06;1,67;7;1;02/05/2024
+AUTRES;AUTRES_97;Mise en place provisoire tableau électrique en 380 Volts y compris branchement EDF;FT;0,01;68,4;0,08;0;0,01;68,5;10;1;02/05/2024
+AUTRES;AUTRES_98;Désinfection des supports après DDE (eaux usées et/ou vannes);M2;0;0,2;0,6;0;0;0,8;N/A;2;02/05/2024
+AUTRES;AUTRES_99;Assèchement d'espaces creux (doublages et/ou plénum);M2;0;0;2;2,52;0;4,52;N/A;2;02/05/2024
+AUTRES;AUTRES_100;Réalisation de sas en polyane pour confinement des volumes à assécher (ouverture <4m2);FT;0;19,5;10,87;0;1,95;32,32;N/A;2;02/05/2024
+AUTRES;AUTRES_101;Plus value pour M² supplémentaire d'ouverture pour réalisation de sas en polyane;M2;0;7,8;1,2;0;0,78;9,78;N/A;2;02/05/2024
+AUTRES;AUTRES_102;Remplacement de sous couche acoustique ou étanchéité sous carrelage (arrachage, préparation du support, surfaçage, fournitures de pose, y compris revêtement);M2;0,54;8,66;0,79;0;0,54;10,54;50;1;02/05/2024
+AUTRES;AUTRES_103;Remplacement de bande périphérique acoustique sous plinthe (arrachage, fournitures de pose, y compris bande);ML;0,02;0,24;0,67;0;0,02;0,94;20;1;02/05/2024
+AUTRES;AUTRES_104;Remplacement isolant par soufflage épaisseur 150 mm;M2;1,31;4,96;1,32;0;1,31;8,9;50;1;02/05/2024
+AUTRES;AUTRES_105;Remplacement isolant par soufflage épaisseur 300 mm;M2;2,62;9,92;2,64;0;2,62;17,8;50;1;02/05/2024
+AUTRES;AUTRES_106;Km supplémentaire bâchage uniquement au delà de 50 km aller retour (avec un maximum de 200 km);KM;0;0;0,22;0;0;0,22;N/A;3;02/05/2024
+AUTRES;AUTRES_107;Remplacement meuble évier y compris accessoire de pose & protection (hors fourniture meuble);FT;17,7;23,6;14,5;0;17,7;73,5;15;1;02/05/2024
+AUTRES;AUTRES_108;Fermetures provisoire de portes 1 vantail avec du contre-plaqué rigide ou renforcé par des tasseaux de bois. nuit (de 19h à 08h), dimanche et jours fériés. ;U;0;-16,55;28,77;0;18,32;30,54;N/A;1;02/05/2024
+AUTRES;AUTRES_109;Mise en sécurité d'une vitrine par pose d'un contre-plaqué y compris déplacement. nuit (de 19h à 08h), dimanche et jours fériés. ;M2;0;-87,1;74,7;0;96,4;84;N/A;1;02/05/2024
+AUTRES;AUTRES_110;Mise en sécurité par pose d'un film de sécurité d'une porte fenêtre ou fenêtre y compris déplacement. nuit (de 19h à 08h), dimanche et jours fériés. ;U;0;2,15;20,6;0;2,06;24,81;N/A;3;02/05/2024
+AUTRES;AUTRES_111;Mise en sécurité par pose d'un contre-plaqué d'une porte fenêtre ou fenêtre y compris déplacement. nuit (de 19h à 08h), dimanche et jours fériés. ;U;0;-16,55;28,77;0;18,32;30,54;N/A;1;02/05/2024
+AUTRES;AUTRES_112;Km supplémentaire au delà de 50 km aller retour (avec un maximum de 200 km);KM;0;0;0,22;0;0;0,22;N/A;3;02/05/2024
+AUTRES;AUTRES_113;Réparation sur menuiserie aluminium de rayures et de légers enfoncements;FT;0;0;0;0;0;75;N/A;3;02/05/2024
+AUTRES;AUTRES_114;Réparation sur menuiserie aluminium d'enfoncements de matières;FT;0;0;0;0;0;75;N/A;3;02/05/2024
+AUTRES;AUTRES_115;Km supplémentaire au delà de 50 km aller retour (avec un maximum de 200 km);Km supplémentaire au delà de 50 km aller retour (avec un maximum de 200 km);0;0;0,22;0;0;0,22;N/A;3;02/05/2024
+AUTRES;AUTRES_116;Mise en sécurité par pose d'un film de sécurité d'une porte fenêtre ou fenêtre y compris déplacement;U;0;2,15;20,6;0;2,06;24,81;N/A;3;02/05/2024
+AUTRES;AUTRES_117;Mise en sécurité par pose d'un contre-plaqué d'une porte fenêtre ou fenêtre y compris déplacement;U;0;-16,55;28,77;0;18,32;30,54;N/A;3;02/05/2024
+AUTRES;AUTRES_118;Remplacement portes verre trempé standard clair à l'unité sans pièce métallique ;M2;49,8;255;29,3;0;49,8;383,9;20;1;02/05/2024
+AUTRES;AUTRES_119;Assèchement ambiant habitation y compris amenée, repli et location du matériel 1 APPAREIL limité à 3 semaines  ;FT;0;0;40;50,4;0;90,4;N/A;2;02/05/2024
+AUTRES;AUTRES_120;Assèchement ambiant habitation par APPAREIL supplémentaires limité à 3 semaines;FT;0;0;0,4;50,4;0;50,8;N/A;2;02/05/2024
+AUTRES;AUTRES_121;Remplacement d'un simple vitrage clair, d'épaisseur < à 10 mm et de surface < à 1m² y compris déplacement et traitement des déchets;FT;0,28;30,74;19,81;0;0,28;51,11;30;3;02/05/2024
+AUTRES;AUTRES_122;Remplacement d'un simple vitrage clair, d'épaisseur < à 10 mm et de surface comprise entre 1 et 2 M² y compris déplacement et traitement des déchets;FT;0,42;46,11;29,71;0;0,42;76,66;30;3;02/05/2024
+AUTRES;AUTRES_123;Remplacement serrure 3 ou 5 points tout type (à larder ou en applique). Déplacement compris. Nuit (de 19h à 08h), dimanche et jours fériés. ;FT;0,08;19;19,33;0;0,08;38,49;20;1;02/05/2024
+AUTRES;AUTRES_124;Débitage et enlèvement d'un arbre au sol d'une longueur inférieure à 8m.;FT;0;0,1;40;0;720;760,1;N/A;2;02/05/2024
+AUTRES;AUTRES_125;Débitage et enlèvement d'un arbre au sol d'une longueur comprise entre 8 et 15m.;FT;0;0,1;40;0;1260;1300,1;N/A;2;02/05/2024
+AUTRES;AUTRES_126;Débitage et enlèvement d'un arbre au sol d'une longueur supérieure à 15m.;FT;0;0,1;40;0;1800;1840,1;N/A;2;02/05/2024
+AUTRES;AUTRES_127;Jeune arbre à planter;U;0;0;1,2;0;0;1,2;50;2;02/05/2024
+AUTRES;AUTRES_128;Plante à replanter ;U;0;0;1,2;0;0;1,2;10;2;02/05/2024
+AUTRES;AUTRES_129;Mise en place d'une haie végétale;ML;0;0;2,4;0;0;2,4;25;2;02/05/2024
+AUTRES;AUTRES_130;Main d'œuvre Jardinage;U;0;0;1,2;0;0;1,2;N/A;3;02/05/2024
+AUTRES;AUTRES_131;Fourniture ensemble Caisson Haut médium + porte en médium ou vitrée Hauteur max 102 cm x largeur max x P.35 cm;U;0;23,6;0;0;17,7;41,3;15;1;02/05/2024
+AUTRES;AUTRES_132;Fourniture ensemble Caisson Haut médium + portes en médium ou vitrées (Hauteur max 102 cm x largeur max 80 cm x P.35 cm);U;0;23,6;0;0;17,7;41,3;15;1;02/05/2024
+AUTRES;AUTRES_133;Fourniture ensemble Caisson Bas médium + porte en médium ou vitrée (Hauteur 77 cm x largeur max 50 cm x P.35 cm);U;0;11,13;0;0;8,35;19,49;15;1;02/05/2024
+AUTRES;AUTRES_134;Fourniture ensemble Caisson Bas médium + portes en médium ou vitrées ID Hauteur 77 cm x largeur max 80 cm x P.35 cm;U;0;17,82;0;0;13,36;31,18;15;1;02/05/2024
+AUTRES;AUTRES_135;Fourniture ensemble caisson + porte Pour Evier/vasque - Hauteur max 85 X Longueur max 80 max X Profondeur 58 cm;U;0;32,59;0;0;24,44;57,03;15;1;02/05/2024
+AUTRES;AUTRES_136;Fourniture ensemble caisson + porte Meuble colonne - Hauteur max 177cm X Longueur max 60 max;U;0;70,21;0;0;52,65;122,86;15;1;02/05/2024
+AUTRES;AUTRES_137;Forfait dépose & repose Meuble (caisson et portes);FT;0;0;29;0;0;29;15;1;02/05/2024
+AUTRES;AUTRES_138;Facturation minimale électricité toutes sujétions y compris fournitures (hors intervention pour forfait recherche de panne);FT;6,39;82,8;13,59;0;6,39;109,17;10;2;02/05/2024
+AUTRES;AUTRES_139;Facturation minimale Décontamination toutes sujétions, y compris fournitures et forfait déplacement;FT;0;0;0;0;0;24,2;N/A;2;02/05/2024
+AUTRES;AUTRES_140;Facturation minimale assèchement toutes sujétions, y compris fournitures et forfait déplacement;FT;0;0;41,2;16,8;0;109,17;N/A;2;02/05/2024
